@@ -1,0 +1,24 @@
+ODENet(
+  (net_prods): Sequential(
+    (activation_0): LogShiftedSoftSignMod()
+    (linear_out): Linear(in_features=3551, out_features=120, bias=True)
+  )
+  (net_sums): Sequential(
+    (activation_0): SoftsignMod()
+    (linear_out): Linear(in_features=3551, out_features=120, bias=True)
+  )
+  (net_alpha_combine): Sequential(
+    (linear_out): Linear(in_features=240, out_features=3551, bias=False)
+  )
+)
+
+
+    def forward(self, t, y):
+        sums = self.net_sums(y)
+        prods = torch.exp(self.net_prods(y))
+        sums_prods_concat = torch.cat((sums, prods), dim= - 1)
+        joint = self.net_alpha_combine(sums_prods_concat)
+        final = torch.relu(self.gene_multipliers)*(joint - y)
+        return(final) 
+
+lambda = 0.9
