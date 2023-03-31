@@ -29,13 +29,9 @@ class Visualizator1D(Visualizator):
     
     def __init__(self, data_handler, odenet, settings):
         super().__init__(data_handler, odenet, settings)
-        # IH: uncomment this when vis dyn
-        #self.fig_dyn = plt.figure(figsize=(6,6))
-        #self.fig_dyn.canvas.set_window_title("Dynamics")
-        #self.ax_dyn = self.fig_dyn.add_subplot(111, frameon=False)
         
         self.fig_traj_split = plt.figure(figsize=(15,15), tight_layout=True)
-        self.fig_traj_split.canvas.set_window_title("Trajectories in each dimension")
+       # self.fig_traj_split.canvas.set_window_title("Trajectories in each dimension")
         
         self.TOT_ROWS = 5
         self.TOT_COLS = 6
@@ -45,33 +41,22 @@ class Visualizator1D(Visualizator):
         else:
             if self.data_handler.val_split !=1 :
                 self.sample_plot_val_cutoff = min(self.data_handler.n_val, 2)
-                #print( self.sample_plot_val_cutoff)
             else:
                 self.sample_plot_val_cutoff = min(self.data_handler.n_val, 7)
 
         self.genes_to_viz = sorted(random.sample(range(self.data_handler.dim),30)) #only plot 30 genes
         
-        #breast cancer genes 
-        #self.genes_to_viz = [3106,7007, 556, 3072, 831, 1031, 1032, 5012, 6093] + sorted(random.sample(range(self.data_handler.dim),21)) #desmedt genes
         
         self.axes_traj_split = self.fig_traj_split.subplots(nrows=self.TOT_ROWS, ncols=self.TOT_COLS, sharex=False, sharey=True, subplot_kw={'frameon':True})
         
         self.legend_traj = [Line2D([0], [0], color='black', linestyle='-.', label='NN approx. of dynamics'),Line2D([0], [0], color='green', linestyle='-', label='True dynamics'),Line2D([0], [0], marker='o', color='red', label='Observed data', markerfacecolor='red', markersize=5)]
-        #self.legend_traj = [Line2D([0], [0], color='blue', linestyle='-.', label='NN approx. of dynamics'),Line2D([0], [0], marker='o', color='grey', label='Observed data', markerfacecolor='red', markersize=5)]
         
         self.fig_traj_split.legend(handles=self.legend_traj, loc='upper center', ncol=3)
 
         self._set_ax_limits()
 
-        #plt.show()
-        #plt.savefig('initial_plot.png')
         
     def plot(self):
-        #plt.figure(1)
-        # IH: uncomment this when vis dyn
-        #self.fig_dyn.canvas.draw_idle()
-        #self.fig_dyn.canvas.start_event_loop(0.005)
-        #plt.figure(2)
         self.fig_traj_split.canvas.draw_idle()
         self.fig_traj_split.canvas.start_event_loop(0.005)
 
@@ -90,16 +75,9 @@ class Visualizator1D(Visualizator):
     
 
 
-        log_scale = self.settings['log_scale']
-        if log_scale == "log":
-            upper_lim =  -0.2
-            lower_lim = -5
-        elif log_scale == "reciprocal":    
-            upper_lim = 1.3
-            lower_lim = 0.4
-        else: #i.e. linear 
-            upper_lim = 1.1 #6+14 
-            lower_lim = -0.1 #-6+10 
+
+        upper_lim = 1.1 #6+14 
+        lower_lim = -0.1 #-6+10 
 
         for row_num,this_row_plots in enumerate(self.axes_traj_split):
             for col_num, ax in enumerate(this_row_plots):

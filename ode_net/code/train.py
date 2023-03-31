@@ -148,8 +148,8 @@ def save_model(odenet, folder, filename):
 
 parser = argparse.ArgumentParser('Testing')
 parser.add_argument('--settings', type=str, default='config.cfg')
-clean_name =  "desmedt_11165genes_1sample_186T" 
-parser.add_argument('--data', type=str, default='/home/ubuntu/phoenix/breast_cancer_data/clean_data/{}.csv'.format(clean_name))
+clean_name =  "G350genes_150samples" 
+parser.add_argument('--data', type=str, default='C:/STUDIES/RESEARCH/phoenix/ground_truth_simulator/clean_data/{}.csv'.format(clean_name))
 
 args = parser.parse_args()
 
@@ -204,12 +204,12 @@ if __name__ == "__main__":
                                         scale_expression = settings['scale_expression'])
     
     #Read in the prior matrix
-    prior_mat_loc = '/home/ubuntu/phoenix/breast_cancer_data/clean_data/edge_prior_matrix_desmedt_11165.csv'
-    prior_mat = read_prior_matrix(prior_mat_loc, sparse = True, num_genes = data_handler.dim) #change to sparse = False for yeast data or simulated data
+    prior_mat_loc = 'C:/STUDIES/RESEARCH/phoenix/ground_truth_simulator/clean_data/edge_prior_matrix_G350_noise_0.0.csv'
+    prior_mat = read_prior_matrix(prior_mat_loc, sparse = False, num_genes = data_handler.dim) #change to sparse = False for yeast data or simulated data
     batch_for_prior = (torch.rand(10000,1,prior_mat.shape[0], device = data_handler.device) - 0.5)
     prior_grad = torch.matmul(batch_for_prior,prior_mat) #can be any model here that predicts the derivative
     del prior_mat
-    loss_lambda = 0.999
+    loss_lambda = 0.99
     
     # Initialization
     odenet = ODENet(device, data_handler.dim, explicit_time=settings['explicit_time'], neurons = settings['neurons_per_layer'])
@@ -218,7 +218,7 @@ if __name__ == "__main__":
     print("Using a NN with {} neurons per layer, with {} trainable parameters".format(settings['neurons_per_layer'], param_count))
     
     if settings['pretrained_model']:
-        pretrained_model_file = '/home/ubuntu/phoenix/ode_net/code/output/_pretrained_best_model/best_val_model.pt'
+        pretrained_model_file = 'C:/STUDIES/RESEARCH/phoenix/ode_net/code/output/_pretrained_best_model/best_val_model.pt'
         odenet.load(pretrained_model_file)
         #print("Loaded in pre-trained model!")
         
