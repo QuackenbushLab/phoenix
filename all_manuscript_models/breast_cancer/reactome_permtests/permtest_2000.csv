@@ -1,0 +1,1636 @@
+pathway,phnx_z_score,mean_path_score,sd_path_score,phnx_p_val
+nuclear receptor transcription pathway,10.95571123,0.007343508,0.002211868,0
+aryl hydrocarbon receptor signalling,9.454103211,0.00056792,0.00062831,0
+negative regulation of activity of tfap2 ap 2 family transcription factors,9.117199686,0.000512763,0.000534043,0
+estrogen dependent gene expression,8.143974243,0.010983729,0.002935736,0.002
+sumoylation of intracellular receptors,8.055114156,0.003379181,0.001574956,0
+rna polymerase ii transcription,8.014038066,0.074372114,0.006750077,0
+runx2 regulates chondrocyte maturation,7.832785959,0.001125191,0.00083472,0
+sumoylation of transcription factors,7.791169366,0.001680067,0.001110206,0
+alk mutants bind tkis,7.194257277,0.000503313,0.000497783,0.002
+sumoylation,7.046058036,0.013129806,0.002922819,0
+runx2 regulates bone development,6.849670476,0.003387874,0.001506684,0
+xenobiotics,6.515532938,0.001126841,0.000919635,0
+gli proteins bind promoters of hh responsive genes to promote transcription,6.377668635,0.000535377,0.000523685,0.006
+yap1 and wwtr1 taz stimulated gene expression,6.142424138,0.001763816,0.001103279,0
+regulation of beta cell development,5.980521465,0.002247556,0.001231941,0
+runx3 regulates cdkn1a transcription,5.775853786,0.000563869,0.000616711,0.006
+transcriptional regulation by the ap 2 tfap2 family of transcription factors,5.609311797,0.0063273,0.002191834,0
+transcriptional regulation by runx2,5.590124871,0.009587332,0.002536291,0
+transcriptional regulation of granulopoiesis,5.555658088,0.003346792,0.001413883,0
+runx1 regulates estrogen receptor mediated transcription,5.518479837,0.000585512,0.000706115,0.006
+ngf stimulated transcription,5.48434862,0.007406884,0.002240438,0
+runx1 regulates transcription of genes involved in wnt signaling,5.428875002,0.000577079,0.000719322,0.01
+regulation of pten gene transcription,5.366669351,0.001143565,0.00092438,0.008
+regulation of runx2 expression and activity,5.002291122,0.003890023,0.001630635,0.002
+deactivation of the beta catenin transactivating complex,4.925421487,0.001689027,0.001104114,0.004
+activation of the tfap2 ap 2 family of transcription factors,4.880063712,0.001175099,0.00100918,0.008
+regulation of gene expression in endocrine committed neurog3 progenitor cells,4.87149016,0.001158147,0.000928931,0.01
+runx2 regulates osteoblast differentiation,4.825933095,0.002873938,0.001441993,0
+binding of tcf lef ctnnb1 to target gene promoters,4.784375916,0.001080757,0.000776988,0.006
+nuclear events kinase and transcription factor activation,4.724007823,0.008004201,0.002531515,0
+tfap2 ap 2 family regulates transcription of growth factors and their receptors,4.708287351,0.003970298,0.001659906,0.002
+endogenous sterols,4.539759754,0.002256411,0.001256073,0.002
+circadian clock,4.50331318,0.0061671,0.002037743,0.002
+transcriptional regulation of testis differentiation,4.317326359,0.00289441,0.001490691,0.002
+runx1 regulates transcription of genes involved in differentiation of myeloid cells,4.249962141,0.000610735,0.000747625,0.014
+transcriptional regulation by runx3,3.884180635,0.005175529,0.001993485,0.01
+regulation of lipid metabolism by pparalpha,3.856326627,0.007463446,0.002352266,0.002
+runx3 regulates wnt signaling,3.836223892,0.001588276,0.000977518,0.01
+signaling by ntrks,3.758720281,0.011693851,0.00273882,0.002
+bmal1 clock npas2 activates circadian gene expression,3.746990119,0.003444314,0.00149038,0.004
+formation of the beta catenin tcf transactivating complex,3.680908353,0.001185882,0.000981355,0.016
+pten regulation,3.671682759,0.002816808,0.001435518,0.008
+repression of wnt target genes,3.66393779,0.001180355,0.000987408,0.016
+tfap2a acts as a transcriptional repressor during retinoic acid induced cell differentiation,3.580695218,0.000596333,0.000687148,0.014
+pou5f1 oct4 sox2 nanog activate genes related to proliferation,3.573016375,0.002360609,0.00136836,0.018
+transcriptional regulation by runx1,3.402953923,0.009707135,0.002916109,0.01
+transcriptional regulation of pluripotent stem cells,3.308853349,0.002839136,0.001473728,0.02
+notch4 intracellular domain regulates transcription,3.258649588,0.000560742,0.00060359,0.02
+developmental biology,3.212592865,0.085598091,0.007276125,0.004
+regulation of gene expression in late stage branching morphogenesis pancreatic bud precursor cells,3.130607139,0.000537552,0.000546299,0.016
+runx1 regulates transcription of genes involved in differentiation of hscs,3.120812984,0.001567958,0.000890372,0.022
+degradation of beta catenin by the destruction complex,3.102321744,0.001682162,0.001087775,0.026
+germ layer formation at gastrulation,3.086156255,0.002250253,0.001194798,0.018
+activated pkn1 stimulates transcription of ar androgen receptor regulated genes klk2 and klk3,2.981821738,0.00057987,0.000694104,0.026
+interferon alpha beta signaling,2.968165726,0.002929762,0.001484643,0.028
+esr mediated signaling,2.850051165,0.018584109,0.003618394,0.016
+activation of the ap 1 family of transcription factors,2.729593161,0.000530763,0.000555828,0.022
+rora activates gene expression,2.725912203,0.001084553,0.000881026,0.03
+transcriptional regulation of white adipocyte differentiation,2.599184132,0.006936313,0.002216431,0.014
+runx2 regulates genes involved in cell migration,2.590061579,0.001722955,0.001064443,0.036
+activation of anterior hox genes in hindbrain development during early embryogenesis,2.544751178,0.004478789,0.001726331,0.03
+hsp90 chaperone cycle for steroid hormone receptors shr in the presence of ligand,2.447448441,0.004504525,0.001889881,0.024
+nuclear signaling by erbb4,2.436126797,0.003939291,0.00162865,0.032
+pou5f1 oct4 sox2 nanog repress genes related to differentiation,2.433603692,0.001637019,0.000979707,0.032
+downregulation of smad2 3 smad4 transcriptional activity,2.414375514,0.000538345,0.000504047,0.028
+regulation of expression of slits and robos,2.350856724,0.003895732,0.001529814,0.04
+regulation of gene expression in beta cells,2.342229768,0.000523773,0.000495343,0.034
+cytochrome p450 arranged by substrate type,2.321125252,0.007315122,0.002143557,0.032
+regulation of gene expression in early pancreatic precursor cells,2.316729233,0.000593035,0.000714267,0.03
+signaling by alk in cancer,2.270662165,0.003948802,0.001610078,0.046
+signaling by nuclear receptors,2.208017259,0.029804079,0.004363503,0.022
+polo like kinase mediated events,2.167910781,0.00401763,0.001802481,0.05
+transcriptional activity of smad2 smad3 smad4 heterotrimer,2.040034056,0.000553392,0.000589163,0.044
+foxo mediated transcription of oxidative stress metabolic and neuronal genes,2.027136245,0.001640395,0.00105533,0.05
+transcription of e2f targets under negative control by p107 rbl1 and p130 rbl2 in complex with hdac1,1.993406376,0.001757888,0.001158165,0.06
+physiological factors,1.961924779,0.003956897,0.001638391,0.052
+ripk1 mediated regulated necrosis,1.925730871,0.001101738,0.000883762,0.056
+ovarian tumor domain proteases,1.924669509,0.002895173,0.001500456,0.062
+creb3 factors activate genes,1.895605487,0.000580444,0.000678086,0.042
+deubiquitination,1.881187667,0.012841591,0.002727826,0.044
+shc mediated cascade fgfr3,1.852387123,0.001127497,0.000838387,0.044
+signaling by mst1,1.830421041,0.001060461,0.000796877,0.042
+activation of gene expression by srebf srebp,1.827236049,0.002656917,0.001249047,0.048
+fgfr3b ligand binding and activation,1.819353269,0.001098788,0.00086939,0.042
+hedgehog on state,1.797874023,0.002879848,0.001334631,0.07
+tp53 regulates transcription of genes involved in g1 cell cycle arrest,1.776948328,0.00285733,0.001338173,0.066
+cholesterol biosynthesis,1.753590704,0.002279621,0.001324271,0.06
+signaling by notch4,1.750945591,0.001648556,0.00099126,0.066
+nr1h2 nr1h3 regulate gene expression linked to lipogenesis,1.729312406,0.001701193,0.001171556,0.066
+notch3 intracellular domain regulates transcription,1.716398056,0.002205125,0.001160478,0.066
+regulation of pten localization,1.689244907,0.000566517,0.000576885,0.058
+signaling by notch1 pest domain mutants in cancer,1.687996325,0.001210683,0.000980031,0.054
+oxidative stress induced senescence,1.667675795,0.003305822,0.00139458,0.066
+ikk complex recruitment mediated by rip1,1.660005102,0.001110466,0.000864426,0.06
+the canonical retinoid cycle in rods twilight vision,1.652360121,0.002343382,0.001349687,0.076
+foxo mediated transcription,1.639567048,0.00393089,0.001516873,0.078
+notch1 intracellular domain regulates transcription,1.613550364,0.001741337,0.001171265,0.064
+intracellular signaling by second messengers,1.606695605,0.023599938,0.003929408,0.072
+synthesis secretion and inactivation of glucose dependent insulinotropic polypeptide gip,1.601071497,0.001693359,0.001087341,0.072
+tnfr1 induced nfkappab signaling pathway,1.596800824,0.001121776,0.000891559,0.064
+dcc mediated attractive signaling,1.581319503,0.000568324,0.000654091,0.044
+nod1 2 signaling pathway,1.575082174,0.001136767,0.000894335,0.064
+ticam1 rip1 mediated ikk complex recruitment,1.570451699,0.001122411,0.000906113,0.068
+regulation of tp53 activity through acetylation,1.539451639,0.000572314,0.000629251,0.052
+smad2 smad3 smad4 heterotrimer regulates transcription,1.535773515,0.000608999,0.000746402,0.048
+tcf dependent signaling in response to wnt,1.508483021,0.0079308,0.002486381,0.086
+regulated necrosis,1.485281638,0.001716191,0.001139831,0.086
+rap1 signalling,1.468385327,0.001130386,0.000863121,0.07
+rho gtpases activate pkns,1.457110328,0.001762315,0.001250005,0.064
+regulation of cholesterol biosynthesis by srebp srebf,1.432491804,0.002821167,0.00147858,0.082
+extrinsic pathway of fibrin clot formation,1.422394643,0.000575896,0.000618433,0.058
+interleukin 4 and interleukin 13 signaling,1.422270106,0.014892552,0.003282436,0.11
+regulation of tnfr1 signaling,1.393403603,0.001216906,0.000953429,0.076
+signaling by receptor tyrosine kinases,1.384216686,0.05651125,0.005941173,0.088
+interferon signaling,1.375730367,0.012405503,0.002757676,0.108
+intraflagellar transport,1.371583221,0.002646505,0.001159932,0.08
+phase i functionalization of compounds,1.357448641,0.012607869,0.002778752,0.086
+signaling by notch1,1.34805844,0.002303101,0.001243549,0.098
+transcriptional activation of mitochondrial biogenesis,1.324542641,0.001679028,0.001014136,0.088
+fgfr3 ligand binding and activation,1.320763697,0.001777372,0.001264044,0.092
+extra nuclear estrogen signaling,1.295943495,0.009502038,0.002506585,0.1
+g0 and early g1,1.251898857,0.005248841,0.002185668,0.124
+myd88 independent tlr4 cascade,1.247865486,0.004512156,0.001709515,0.126
+uptake of dietary cobalamins into enterocytes,1.230571492,0.000549371,0.000583744,0.072
+signaling by robo receptors,1.220103854,0.00729066,0.002116195,0.12
+creatine metabolism,1.2142583,0.00234188,0.001422732,0.106
+ca2 pathway,1.211549261,0.005148736,0.002045033,0.11
+generation of second messenger molecules,1.203397088,0.003279282,0.001486869,0.102
+mapk targets nuclear events mediated by map kinases,1.201669554,0.001165339,0.000958233,0.084
+diseases of signal transduction by growth factor receptors and second messengers,1.17579008,0.028636452,0.00407774,0.13
+ketone body metabolism,1.160416783,0.000521361,0.000502972,0.074
+nr1h2 nr1h3 regulate gene expression linked to triglyceride lipolysis in adipose,1.126127934,0.000578568,0.000645659,0.076
+atf6 atf6 alpha activates chaperones,1.116876931,0.000561177,0.00063138,0.066
+mapk6 mapk4 signaling,1.116483973,0.004494619,0.001722864,0.134
+tnf signaling,1.082365149,0.001729115,0.001069047,0.118
+atf6 atf6 alpha activates chaperone genes,1.081013925,0.000560928,0.000652556,0.082
+cellular senescence,1.072100111,0.007318183,0.002189051,0.126
+disassembly of the destruction complex and recruitment of axin to the membrane,1.063226191,0.000549487,0.000474342,0.096
+egr2 and sox10 mediated initiation of schwann cell myelination,1.022315051,0.001752213,0.001126389,0.108
+pi3k akt signaling in cancer,1.013739414,0.014074941,0.003007627,0.138
+ub specific processing proteases,0.996689439,0.009702602,0.002460407,0.164
+signaling by fgfr in disease,0.992442033,0.004029203,0.00167541,0.144
+hedgehog off state,0.988540702,0.005103944,0.001855462,0.124
+signaling by erbb4,0.973453556,0.006955304,0.002415885,0.15
+synthesis of ketone bodies,0.965415442,0.000547701,0.000577282,0.064
+estrogen biosynthesis,0.937471734,0.001181834,0.001008648,0.086
+tp53 regulates transcription of dna repair genes,0.933014723,0.00164212,0.001113982,0.092
+insulin receptor signalling cascade,0.922874053,0.004973035,0.001681027,0.16
+constitutive signaling by aberrant pi3k in cancer,0.919896831,0.013610041,0.003244803,0.176
+mitochondrial biogenesis,0.901183414,0.002246257,0.001261243,0.14
+signaling by fgfr3,0.900093488,0.00284559,0.001321653,0.152
+foxo mediated transcription of cell cycle genes,0.892459015,0.001146531,0.00099161,0.086
+pi 3k cascade fgfr3,0.88668284,0.00223102,0.001170453,0.124
+the role of nef in hiv 1 replication and disease pathogenesis,0.87093937,0.001093776,0.000835485,0.102
+pd 1 signaling,0.870877105,0.003870384,0.001571862,0.158
+frs mediated fgfr3 signaling,0.858728441,0.002257898,0.001177255,0.144
+mismatch repair,0.848412638,0.000585235,0.000683167,0.074
+signaling by notch3,0.847215288,0.003931335,0.001639607,0.164
+incretin synthesis secretion and inactivation,0.840226993,0.003454004,0.001614642,0.164
+irs mediated signalling,0.839760814,0.005031536,0.001777738,0.188
+unfolded protein response upr,0.804364124,0.004936024,0.001780141,0.18
+senescence associated secretory phenotype sasp,0.795258612,0.00450747,0.001768183,0.176
+signaling by fgfr,0.791916942,0.005757555,0.002061222,0.178
+tnf receptor superfamily tnfsf members mediating non canonical nf kb pathway,0.790767807,0.002191118,0.001206412,0.142
+retinoid cycle disease events,0.77724369,0.000550547,0.000654138,0.09
+nr1h2 and nr1h3 mediated signaling,0.770381381,0.005023499,0.001793854,0.196
+cyclin a b1 b2 associated events during g2 m transition,0.769432726,0.004480359,0.001724039,0.186
+apoptotic factor mediated response,0.759342564,0.000612075,0.000744407,0.098
+regulation of mecp2 expression and activity,0.74880276,0.002301423,0.001288653,0.156
+interleukin 17 signaling,0.747787325,0.002833344,0.00132052,0.184
+nicotinate metabolism,0.738518059,0.002399196,0.001289499,0.18
+transcriptional regulation by ventx,0.727042667,0.002922587,0.001536922,0.16
+post translational protein modification,0.719077899,0.087542582,0.007411967,0.216
+beta catenin independent wnt signaling,0.718479646,0.00806682,0.002503444,0.198
+downstream signaling of activated fgfr3,0.716167813,0.002280847,0.001379557,0.152
+nef and signal transduction,0.705936928,0.001169568,0.000923404,0.138
+flt3 signaling through src family kinases,0.694548405,0.000571772,0.000652208,0.096
+metabolism of angiotensinogen to angiotensins,0.688318078,0.004579706,0.001839681,0.192
+negative regulation of fgfr3 signaling,0.67568718,0.002351844,0.001357132,0.168
+nef mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,0.673833785,0.000580152,0.000659822,0.106
+transcriptional regulation by mecp2,0.658202442,0.006526986,0.00233851,0.202
+negative regulation of the pi3k akt network,0.651941007,0.015427167,0.003386385,0.234
+cd28 dependent vav1 pathway,0.642097466,0.000597847,0.000664876,0.108
+thyroxine biosynthesis,0.630805887,0.001672808,0.00108624,0.148
+shc mediated cascade fgfr4,0.620999821,0.001108563,0.000847052,0.126
+signaling by wnt,0.61252388,0.014117959,0.002977962,0.244
+wnt mediated activation of dvl,0.609667309,0.000600887,0.000742917,0.102
+rhob gtpase cycle,0.605261914,0.004458449,0.001793263,0.206
+mrna decay by 3 to 5 exoribonuclease,0.598404723,0.000564002,0.000537993,0.152
+nef mediated cd4 down regulation,0.586111413,0.000602241,0.000720889,0.092
+phospholipase c mediated cascade fgfr2,0.585886606,0.001070616,0.000790004,0.14
+death receptor signalling,0.582936834,0.005605939,0.001920326,0.238
+dissolution of fibrin clot,0.577556754,0.001725869,0.001111119,0.182
+deadenylation dependent mrna decay,0.577502126,0.000559656,0.00056499,0.12
+transport of rcbl within the body,0.569511627,0.001147222,0.000982184,0.122
+tyrosine catabolism,0.565728643,0.001141313,0.000971404,0.118
+runx3 regulates immune response and cell migration,0.560098689,0.001213957,0.001011235,0.148
+cobalamin cbl vitamin b12 transport and metabolism,0.557183759,0.001172777,0.00095805,0.14
+regulation of kit signaling,0.55605194,0.001098834,0.000867565,0.126
+phospholipase c mediated cascade fgfr4,0.550355816,0.001149502,0.000881393,0.142
+transcriptional regulation by tp53,0.546843569,0.018266355,0.003463674,0.26
+signaling by insulin receptor,0.519027328,0.006393733,0.002183576,0.24
+endosomal vacuolar pathway,0.516524311,0.000570367,0.000671687,0.11
+runx3 regulates p14 arf,0.514074202,0.001210625,0.000985863,0.146
+ksrp khsrp binds and destabilizes mrna,0.508269651,0.000567371,0.000626771,0.118
+visual phototransduction,0.496757434,0.01186898,0.002868377,0.274
+cd28 co stimulation,0.491200407,0.001112055,0.000899172,0.156
+alpha oxidation of phytanate,0.490074499,0.000583266,0.000624557,0.136
+formation of fibrin clot clotting cascade,0.489058589,0.003546815,0.001570885,0.224
+tp53 regulates transcription of cell cycle genes,0.485661043,0.00532681,0.001970792,0.254
+tristetraprolin ttp zfp36 binds and destabilizes mrna,0.480512633,0.000588507,0.00061899,0.134
+signaling by hedgehog,0.473555789,0.007424807,0.002341317,0.252
+nuclear events stimulated by alk signaling in cancer,0.472776982,0.000573301,0.000635644,0.152
+srp dependent cotranslational protein targeting to membrane,0.462595705,0.000578274,0.000706024,0.108
+cellular responses to stimuli,0.460967066,0.037077485,0.004952517,0.322
+sphingolipid de novo biosynthesis,0.454874226,0.001167944,0.000929209,0.166
+signaling by kit in disease,0.450597824,0.001157532,0.000940336,0.162
+dna damage telomere stress induced senescence,0.444832596,0.002294366,0.00128339,0.192
+factors involved in megakaryocyte development and platelet production,0.442537337,0.011758816,0.002858105,0.242
+butyrate response factor 1 brf1 binds and destabilizes mrna,0.436763698,0.000594601,0.00066704,0.126
+costimulation by the cd28 family,0.432557472,0.00566842,0.001974286,0.24
+toll like receptor tlr1 tlr2 cascade,0.432400553,0.007869386,0.002216636,0.272
+hdr through mmej alt nhej,0.43171248,0.001137208,0.000911862,0.146
+toll like receptor cascades,0.424813468,0.012626982,0.002864624,0.31
+cyclin d associated events in g1,0.421028444,0.004537525,0.001734044,0.244
+fgfr2c ligand binding and activation,0.418749402,0.001140267,0.00093899,0.152
+purine catabolism,0.417186134,0.001179626,0.000943168,0.172
+regulation of runx1 expression and activity,0.415463004,0.00280305,0.001401962,0.22
+phosphate bond hydrolysis by nudt proteins,0.415110284,0.001175248,0.000958431,0.154
+fanconi anemia pathway,0.409636794,0.000500486,0.000491442,0.168
+rhoc gtpase cycle,0.407742388,0.003479535,0.001584349,0.236
+nucleotide binding domain leucine rich repeat containing receptor nlr signaling pathways,0.406410441,0.003390612,0.001395142,0.248
+reduction of cytosolic ca levels,0.39947275,0.000556541,0.00051454,0.172
+signaling by notch,0.395878111,0.007988557,0.002399914,0.284
+sumoylation of dna damage response and repair proteins,0.393816456,0.003398105,0.001526579,0.226
+peptide hormone metabolism,0.393517496,0.012555317,0.003111893,0.272
+aberrant regulation of mitotic g1 s transition in cancer due to rb1 defects,0.392373016,0.002782895,0.001321342,0.23
+regulation of tlr by endogenous ligand,0.387156586,0.003424252,0.001547664,0.254
+sodium calcium exchangers,0.3842565,0.001184778,0.000976075,0.178
+metabolism of amine derived hormones,0.378909008,0.00287718,0.001528294,0.228
+eukaryotic translation elongation,0.373368991,0.001104575,0.000818524,0.172
+iron uptake and transport,0.366747708,0.003861192,0.001529937,0.268
+cd28 dependent pi3k akt signaling,0.364630483,0.001187946,0.00100316,0.158
+interleukin 2 signaling,0.363015575,0.001177316,0.00092268,0.184
+toll like receptor 9 tlr9 cascade,0.36257612,0.004976056,0.001817874,0.252
+biosynthesis of maresins,0.36169503,0.000572221,0.000623161,0.152
+fceri mediated mapk activation,0.359598341,0.004586124,0.001790447,0.274
+eukaryotic translation initiation,0.357598347,0.001106158,0.000846341,0.192
+ldl clearance,0.351600789,0.000536278,0.000582912,0.146
+neurofascin interactions,0.348073951,0.001081862,0.000829193,0.174
+fgfr2 alternative splicing,0.344747392,0.001065699,0.000804145,0.178
+homology directed repair,0.333154162,0.005015202,0.001871968,0.268
+regulation of runx3 expression and activity,0.330673917,0.001141334,0.000891012,0.18
+runx1 regulates expression of components of tight junctions,0.330669933,0.000587618,0.000613814,0.164
+olfactory signaling pathway,0.327837421,0.002262457,0.001254135,0.246
+synthesis of pyrophosphates in the cytosol,0.318813401,0.001678461,0.00111462,0.194
+association of tric cct with target proteins during biosynthesis,0.314766896,0.001648107,0.001006498,0.222
+cytokine signaling in immune system,0.313750603,0.056465965,0.005910163,0.358
+pregnenolone biosynthesis,0.306502499,0.000573901,0.000647874,0.146
+trna modification in the nucleus and cytosol,0.300661886,0.00115398,0.000984171,0.168
+defects of contact activation system cas and kallikrein kinin system kks,0.29600889,0.000530713,0.000500367,0.182
+ctla4 inhibitory signaling,0.287441255,0.00167295,0.001028381,0.228
+pre notch processing in golgi,0.287056359,0.000559293,0.000706454,0.122
+hats acetylate histones,0.28074867,0.000579847,0.000761821,0.128
+synthesis of udp n acetyl glucosamine,0.273664452,0.00114471,0.000864978,0.202
+synthesis secretion and inactivation of glucagon like peptide 1 glp 1,0.272080569,0.002912603,0.001410303,0.266
+meiotic synapsis,0.269455967,0.001658134,0.001029762,0.222
+negative regulation of tcf dependent signaling by dvl interacting proteins,0.266199809,0.001163563,0.000923353,0.228
+sensory perception,0.263804727,0.019697351,0.003551769,0.35
+defective factor ix causes hemophilia b,0.258775695,0.000529861,0.000575653,0.166
+estrogen dependent nuclear events downstream of esr membrane signaling,0.256602106,0.003964763,0.001574078,0.304
+rrna processing,0.254831527,0.002167623,0.001127744,0.264
+signaling by fgfr4 in disease,0.251299831,0.001144399,0.000885889,0.198
+synthesis of epoxy eet and dihydroxyeicosatrienoic acids dhet,0.250114435,0.000604834,0.000770775,0.15
+netrin 1 signaling,0.250015084,0.002177839,0.001211208,0.242
+chylomicron clearance,0.244083469,0.000573391,0.000687629,0.156
+mitochondrial iron sulfur cluster biogenesis,0.226967627,0.000614088,0.000697847,0.176
+inactivation of csf3 g csf signaling,0.226867092,0.00055731,0.000624295,0.178
+nucleotide catabolism,0.225232261,0.002234815,0.001137594,0.264
+signaling by type 1 insulin like growth factor 1 receptor igf1r,0.223327516,0.00744864,0.002363413,0.312
+degradation of dvl,0.202202809,0.001133511,0.000884961,0.224
+rho gtpases activate wasps and waves,0.196970495,0.000555732,0.000603135,0.198
+deposition of new cenpa containing nucleosomes at the centromere,0.196747718,0.004084506,0.001788618,0.302
+signaling by fgfr2 iiia tm,0.190582612,0.001685616,0.001120063,0.242
+mitotic g2 g2 m phases,0.18553237,0.013156928,0.003017319,0.382
+hdr through single strand annealing ssa,0.17979198,0.00167207,0.001094444,0.228
+nonsense mediated decay nmd,0.179622004,0.00113192,0.000932279,0.198
+defective f9 activation,0.179609787,0.000560416,0.000659259,0.178
+intrinsic pathway of fibrin clot formation,0.179297202,0.001756356,0.001093874,0.26
+rhoh gtpase cycle,0.171222193,0.001174533,0.001012318,0.214
+irak4 deficiency tlr2 4,0.165202715,0.00287088,0.001388691,0.284
+type i hemidesmosome assembly,0.162484993,0.003951961,0.001552443,0.308
+oncogene induced senescence,0.159493625,0.001703317,0.001035429,0.27
+g1 s dna damage checkpoints,0.157481157,0.005025678,0.001728043,0.328
+mitotic g1 phase and g1 s transition,0.151504975,0.016394613,0.003515965,0.388
+processing of dna double strand break ends,0.151501412,0.002809235,0.001300959,0.304
+p75ntr negatively regulates cell cycle via sc1,0.150305549,0.000528651,0.000482246,0.218
+pre notch expression and processing,0.1466915,0.001160156,0.000968189,0.214
+resolution of d loop structures through synthesis dependent strand annealing sdsa,0.143793366,0.002742698,0.001351242,0.286
+resolution of d loop structures,0.143458023,0.002755365,0.001266107,0.31
+chromosome maintenance,0.142647508,0.005647396,0.001845806,0.332
+defective ext2 causes exostoses 2,0.138495368,0.001603542,0.000993606,0.27
+interferon gamma signaling,0.136545574,0.007834203,0.002191573,0.386
+notch2 intracellular domain regulates transcription,0.134379418,0.000531049,0.000554299,0.208
+synthesis of pips at the early endosome membrane,0.134091771,0.000589711,0.000639461,0.224
+platelet calcium homeostasis,0.123331395,0.0022355,0.001199341,0.292
+amino acids regulate mtorc1,0.123275824,0.000579713,0.000609078,0.236
+fgfr2 ligand binding and activation,0.122554926,0.001676422,0.001125839,0.256
+dopamine clearance from the synaptic cleft,0.116921163,0.000550684,0.00060471,0.224
+fgfr2 mutant receptor activation,0.116431561,0.00176211,0.0011764,0.254
+rhobtb gtpase cycle,0.114938329,0.001758116,0.001089684,0.27
+sema4d mediated inhibition of cell attachment and migration,0.112572794,0.001199671,0.001066152,0.222
+ephb mediated forward signaling,0.110873728,0.001654605,0.001081085,0.254
+metabolism of steroids,0.110809622,0.01489547,0.003431539,0.412
+triglyceride biosynthesis,0.108683182,0.000572684,0.000648915,0.218
+transcription of e2f targets under negative control by dream complex,0.108171653,0.00173239,0.001218105,0.264
+rnd2 gtpase cycle,0.107541504,0.002858665,0.001532289,0.288
+ret signaling,0.102825605,0.003971092,0.001612011,0.328
+transport of organic anions,0.098988748,0.001642168,0.000916483,0.306
+nade modulates death signalling,0.097428431,0.000544881,0.000577385,0.24
+ire1alpha activates chaperones,0.088169274,0.001723354,0.001170295,0.252
+regulated proteolysis of p75ntr,0.088043103,0.000552554,0.00055179,0.252
+ncam1 interactions,0.087801692,0.007870716,0.002380993,0.374
+signaling by rnf43 mutants,0.086417781,0.000538,0.000574111,0.248
+inositol phosphate metabolism,0.086101522,0.005651145,0.001960232,0.348
+reelin signalling pathway,0.079340316,0.000582309,0.0006841,0.222
+diseases of immune system,0.078677776,0.003468889,0.001642756,0.33
+programmed cell death,0.077437456,0.008036645,0.002324802,0.388
+fibronectin matrix formation,0.076477078,0.001205381,0.00094281,0.278
+downstream signaling of activated fgfr4,0.074507009,0.002143654,0.001063715,0.334
+signaling by notch2,0.073083566,0.000557752,0.000653826,0.206
+tight junction interactions,0.072335204,0.002829666,0.001456629,0.3
+p75ntr recruits signalling complexes,0.058956184,0.001053301,0.000774732,0.27
+fgfr2b ligand binding and activation,0.055950756,0.001750932,0.001134336,0.274
+scavenging by class b receptors,0.055877117,0.001791466,0.001231077,0.29
+dna repair,0.055480212,0.008970502,0.002394202,0.38
+glyoxylate metabolism and glycine degradation,0.053984964,0.002768984,0.001293807,0.346
+tcr signaling,0.052033362,0.007820069,0.002244058,0.402
+diseases of dna repair,0.049445713,0.002865563,0.001444713,0.32
+interleukin 1 processing,0.048235935,0.00053275,0.000542494,0.252
+peroxisomal protein import,0.045321024,0.004037272,0.001719249,0.358
+rhobtb2 gtpase cycle,0.044802901,0.001156263,0.000915191,0.268
+striated muscle contraction,0.04311655,0.003447586,0.001605877,0.346
+calcitonin like ligand receptors,0.04107538,0.001130457,0.000908542,0.264
+nucleotide like purinergic receptors,0.038681669,0.002315282,0.00140492,0.31
+phosphate bond hydrolysis by ntpdase proteins,0.034576313,0.00058828,0.000724895,0.25
+stabilization of p53,0.030493004,0.001681706,0.001114468,0.306
+adrenaline noradrenaline inhibits insulin secretion,0.03011618,0.003328812,0.00159159,0.33
+integration of provirus,0.022852024,0.000547856,0.000531175,0.27
+cellular response to starvation,0.020376044,0.00224905,0.001176469,0.326
+rsk activation,0.020096314,0.000518731,0.00050927,0.288
+interleukin 36 pathway,0.017931162,0.000561452,0.000601662,0.26
+runx1 and foxp3 control the development of regulatory t lymphocytes tregs,0.016593807,0.001117707,0.000834688,0.288
+p75ntr regulates axonogenesis,0.012739285,0.000592517,0.000676522,0.294
+metabolism of steroid hormones,0.011384172,0.005689707,0.001990838,0.388
+miro gtpase cycle,0.011231457,0.000545349,0.000543645,0.27
+transferrin endocytosis and recycling,0.009686307,0.001765881,0.001221251,0.27
+phenylalanine and tyrosine metabolism,0.009423424,0.002246344,0.001189714,0.324
+dna double strand break repair,0.004775748,0.008024344,0.002424627,0.398
+negative regulation of fgfr4 signaling,0.004442394,0.002217862,0.001135913,0.33
+sumoylation of ubiquitinylation proteins,0.004055795,0.002257062,0.001209179,0.332
+g2 phase,0.003456626,0.001105648,0.000874786,0.294
+pyroptosis,0.00224645,0.00060409,0.000643314,0.264
+translesion synthesis by y family dna polymerases bypasses lesions on dna template,0,0,0,0
+recognition of dna damage by pcna containing replication complex,0,0,0,0
+translesion synthesis by polh,0,0,0,0
+recognition and association of dna glycosylase with site containing an affected purine,0,0,0,0
+displacement of dna glycosylase by apex1,0,0,0,0
+polb dependent long patch base excision repair,0,0,0,0
+resolution of ap sites via the multiple nucleotide patch replacement pathway,0,0,0,0
+release of apoptotic factors from the mitochondria,0,0,0,0
+formation of apoptosome,0,0,0,0
+activation of caspases through apoptosome mediated cleavage,0,0,0,0
+cytochrome c mediated apoptotic response,0,0,0,0
+smac xiap regulated apoptotic response,0,0,0,0
+inhibition of replication initiation of damaged dna by rb1 e2f1,0,0,0,0
+disinhibition of snare formation,0,0,0,0
+activation of ras in b cells,0,0,0,0
+signaling by nodal,0,0,0,0
+fertilization,0,0,0,0
+methionine salvage pathway,0,0,0,0
+mitochondrial protein import,0,0,0,0
+sperm motility and taxes,0,0,0,0
+acrosome reaction and sperm oocyte membrane binding,0,0,0,0
+activation of puma and translocation to mitochondria,0,0,0,0
+apoptosis induced dna fragmentation,0,0,0,0
+caspase activation via death receptors in the presence of ligand,0,0,0,0
+regulation of signaling by nodal,0,0,0,0
+beta defensins,0,0,0,0
+tetrahydrobiopterin bh4 synthesis recycling salvage and regulation,0,0,0,0
+synthesis of pg,0,0,0,0
+synthesis of pi,0,0,0,0
+synthesis of pips at the er membrane,0,0,0,0
+irf3 mediated activation of type 1 ifn,0,0,0,0
+sulfide oxidation to sulfate,0,0,0,0
+budding and maturation of hiv virion,0,0,0,0
+synthesis of glycosylphosphatidylinositol gpi,0,0,0,0
+attachment of gpi anchor to upar,0,0,0,0
+formation of atp by chemiosmotic coupling,0,0,0,0
+pka mediated phosphorylation of key metabolic factors,0,0,0,0
+pp2a mediated dephosphorylation of key metabolic factors,0,0,0,0
+nef mediated downregulation of mhc class i complex cell surface expression,0,0,0,0
+mtorc1 mediated signalling,0,0,0,0
+signalling to ras,0,0,0,0
+arms mediated activation,0,0,0,0
+p38mapk events,0,0,0,0
+transport and synthesis of paps,0,0,0,0
+polymerase switching on the c strand of the telomere,0,0,0,0
+processive synthesis on the c strand of the telomere,0,0,0,0
+telomere c strand lagging strand synthesis,0,0,0,0
+telomere c strand synthesis initiation,0,0,0,0
+assembly of the hiv virion,0,0,0,0
+apobec3g mediated resistance to hiv 1 infection,0,0,0,0
+acetylcholine binding and downstream events,0,0,0,0
+nef mediated cd8 down regulation,0,0,0,0
+sting mediated induction of host immune responses,0,0,0,0
+activation of trka receptors,0,0,0,0
+ngf independant trka activation,0,0,0,0
+signalling to p38 via rit and rin,0,0,0,0
+pre notch processing in the endoplasmic reticulum,0,0,0,0
+vegf ligand receptor interactions,0,0,0,0
+beta catenin phosphorylation cascade,0,0,0,0
+metabolism of folate and pterines,0,0,0,0
+coenzyme a biosynthesis,0,0,0,0
+akt phosphorylates targets in the cytosol,0,0,0,0
+akt phosphorylates targets in the nucleus,0,0,0,0
+creb phosphorylation,0,0,0,0
+metabolism of nitric oxide nos3 activation and regulation,0,0,0,0
+calcineurin activates nfat,0,0,0,0
+signaling by hippo,0,0,0,0
+enos activation,0,0,0,0
+nostrin mediated enos trafficking,0,0,0,0
+cyp2e1 reactions,0,0,0,0
+ubiquinol biosynthesis,0,0,0,0
+synthesis of 16 20 hydroxyeicosatetraenoic acids hete,0,0,0,0
+hyaluronan biosynthesis and export,0,0,0,0
+the retinoid cycle in cones daylight vision,0,0,0,0
+establishment of sister chromatid cohesion,0,0,0,0
+cohesin loading onto chromatin,0,0,0,0
+interaction with cumulus cells and the zona pellucida,0,0,0,0
+formation of senescence associated heterochromatin foci sahf,0,0,0,0
+trif mediated programmed cell death,0,0,0,0
+fbxw7 mutants and notch1 in cancer,0,0,0,0
+signaling by notch1 t 7 9 notch1 m1580 k2555 translocation mutant,0,0,0,0
+signaling by notch1 hd domain mutants in cancer,0,0,0,0
+notch2 activation and transmission of signal to the nucleus,0,0,0,0
+scavenging by class f receptors,0,0,0,0
+sumo is conjugated to e1 uba2 sae1,0,0,0,0
+sumo is transferred from e1 to e2 ube2i ubc9,0,0,0,0
+sumo is proteolytically processed,0,0,0,0
+dex h box helicases activate type i ifn and inflammatory cytokines production,0,0,0,0
+lrr flii interacting protein 1 lrrfip1 activates type i ifn production,0,0,0,0
+regulation of innate immune responses to cytosolic dna,0,0,0,0
+processing and activation of sumo,0,0,0,0
+irf3 mediated induction of type i ifn,0,0,0,0
+defects in cobalamin b12 metabolism,0,0,0,0
+regulation by c flip,0,0,0,0
+dscam interactions,0,0,0,0
+cytosolic trna aminoacylation,0,0,0,0
+trna aminoacylation,0,0,0,0
+mitochondrial trna aminoacylation,0,0,0,0
+orexin and neuropeptides ff and qrfp bind to their respective receptors,0,0,0,0
+folding of actin by cct tric,0,0,0,0
+dopamine receptors,0,0,0,0
+leukotriene receptors,0,0,0,0
+caspase activation via dependence receptors in the absence of ligand,0,0,0,0
+lysosphingolipid and lpa receptors,0,0,0,0
+opsins,0,0,0,0
+class c 3 metabotropic glutamate pheromone receptors,0,0,0,0
+nectin necl trans heterodimerization,0,0,0,0
+arachidonate production from dag,0,0,0,0
+cation coupled chloride cotransporters,0,0,0,0
+small interfering rna sirna biogenesis,0,0,0,0
+sirt1 negatively regulates rrna expression,0,0,0,0
+ercc6 csb and ehmt2 g9a positively regulate rrna expression,0,0,0,0
+activation of rac1,0,0,0,0
+inactivation of cdc42 and rac1,0,0,0,0
+organic anion transporters,0,0,0,0
+deadenylation of mrna,0,0,0,0
+mrna decay by 5 to 3 exoribonuclease,0,0,0,0
+sodium coupled sulphate di and tri carboxylate transporters,0,0,0,0
+proton coupled monocarboxylate transport,0,0,0,0
+zinc efflux and compartmentalization by the slc30 family,0,0,0,0
+synthesis of gdp mannose,0,0,0,0
+cell extracellular matrix interactions,0,0,0,0
+regulation of cytoskeletal remodeling and cell spreading by ipp complex components,0,0,0,0
+activated tak1 mediates p38 mapk activation,0,0,0,0
+jnk c jun kinases phosphorylation and activation mediated by activated human tak1,0,0,0,0
+hur elavl1 binds and stabilizes mrna,0,0,0,0
+sumoylation of immune response proteins,0,0,0,0
+signaling by ctnnb1 phospho site mutants,0,0,0,0
+defective lfng causes scdo3,0,0,0,0
+mitophagy,0,0,0,0
+pink1 prkn mediated mitophagy,0,0,0,0
+uptake and function of anthrax toxins,0,0,0,0
+uptake and function of diphtheria toxin,0,0,0,0
+caspase activation via extrinsic apoptotic signalling pathway,0,0,0,0
+tnfr1 induced proapoptotic signaling,0,0,0,0
+synthesis of diphthamide eef2,0,0,0,0
+diseases of mismatch repair mmr,0,0,0,0
+organic anion transport,0,0,0,0
+vxpx cargo targeting to cilium,0,0,0,0
+cargo trafficking to the periciliary membrane,0,0,0,0
+bbsome mediated cargo targeting to cilium,0,0,0,0
+cd209 dc sign signaling,0,0,0,0
+trafficking of myristoylated proteins to the cilium,0,0,0,0
+rho gtpases activate ktn1,0,0,0,0
+rho gtpases activate paks,0,0,0,0
+apex1 independent resolution of ap sites via the single nucleotide replacement pathway,0,0,0,0
+pcna dependent long patch base excision repair,0,0,0,0
+translesion synthesis by polk,0,0,0,0
+termination of translesion dna synthesis,0,0,0,0
+fgfrl1 modulation of fgfr1 signaling,0,0,0,0
+clec7a inflammasome pathway,0,0,0,0
+formation of xylulose 5 phosphate,0,0,0,0
+melanin biosynthesis,0,0,0,0
+negative feedback regulation of mapk pathway,0,0,0,0
+protein repair,0,0,0,0
+josephin domain dubs,0,0,0,0
+dna damage recognition in gg ner,0,0,0,0
+formation of incision complex in gg ner,0,0,0,0
+gap filling dna repair synthesis and ligation in gg ner,0,0,0,0
+global genome nucleotide excision repair gg ner,0,0,0,0
+dual incision in gg ner,0,0,0,0
+presynaptic nicotinic acetylcholine receptors,0,0,0,0
+highly sodium permeable postsynaptic acetylcholine nicotinic receptors,0,0,0,0
+highly calcium permeable postsynaptic nicotinic acetylcholine receptors,0,0,0,0
+highly calcium permeable nicotinic acetylcholine receptors,0,0,0,0
+synthesis of wybutosine at g37 of trna phe,0,0,0,0
+trna processing in the mitochondrion,0,0,0,0
+trna modification in the mitochondrion,0,0,0,0
+gdp fucose biosynthesis,0,0,0,0
+rrna modification in the mitochondrion,0,0,0,0
+choline catabolism,0,0,0,0
+tp53 regulates transcription of caspase activators and caspases,0,0,0,0
+tp53 regulates transcription of death receptors and ligands,0,0,0,0
+regulation of tp53 activity through association with co factors,0,0,0,0
+pi5p regulates tp53 acetylation,0,0,0,0
+glycerophospholipid catabolism,0,0,0,0
+dna replication initiation,0,0,0,0
+polymerase switching,0,0,0,0
+processive synthesis on the lagging strand,0,0,0,0
+lagging strand synthesis,0,0,0,0
+glycogen breakdown glycogenolysis,0,0,0,0
+propionyl coa catabolism,0,0,0,0
+pentose phosphate pathway,0,0,0,0
+transport of nucleotide sugars,0,0,0,0
+purine ribonucleoside monophosphate biosynthesis,0,0,0,0
+base excision repair,0,0,0,0
+dna damage bypass,0,0,0,0
+base excision repair ap site formation,0,0,0,0
+resolution of abasic sites ap sites,0,0,0,0
+dna damage reversal,0,0,0,0
+purine salvage,0,0,0,0
+processing of capped intronless pre mrna,0,0,0,0
+fasl cd95l signaling,0,0,0,0
+trail signaling,0,0,0,0
+beta oxidation of decanoyl coa to octanoyl coa coa,0,0,0,0
+beta oxidation of octanoyl coa to hexanoyl coa,0,0,0,0
+beta oxidation of hexanoyl coa to butanoyl coa,0,0,0,0
+slbp dependent processing of replication dependent histone pre mrnas,0,0,0,0
+processing of intronless pre mrnas,0,0,0,0
+transport of nucleosides and free purine and pyrimidine bases across the plasma membrane,0,0,0,0
+wax and plasmalogen biosynthesis,0,0,0,0
+butyrophilin btn family interactions,0,0,0,0
+vldlr internalisation and degradation,0,0,0,0
+e3 ubiquitin ligases ubiquitinate target proteins,0,0,0,0
+tfap2 ap 2 family regulates transcription of cell cycle factors,0,0,0,0
+rrna processing in the mitochondrion,0,0,0,0
+inla mediated entry of listeria monocytogenes into host cells,0,0,0,0
+protein methylation,0,0,0,0
+receptor mediated mitophagy,0,0,0,0
+runx1 interacts with co factors whose precise effect on runx1 targets is not known,0,0,0,0
+runx1 regulates transcription of genes involved in bcr signaling,0,0,0,0
+runx3 regulates notch signaling,0,0,0,0
+regulation of pten mrna translation,0,0,0,0
+competing endogenous rnas cernas regulate pten translation,0,0,0,0
+mitochondrial calcium ion transport,0,0,0,0
+cristae formation,0,0,0,0
+processing of smdt1,0,0,0,0
+runx3 regulates yap1 mediated transcription,0,0,0,0
+nucleotide biosynthesis,0,0,0,0
+intestinal absorption,0,0,0,0
+metabolism of cofactors,0,0,0,0
+oas antiviral response,0,0,0,0
+loss of function of mecp2 in rett syndrome,0,0,0,0
+robo receptors bind akap5,0,0,0,0
+interleukin 18 signaling,0,0,0,0
+notch4 activation and transmission of signal to the nucleus,0,0,0,0
+tlr3 mediated ticam1 dependent programmed cell death,0,0,0,0
+ticam1 dependent activation of irf3 irf7,0,0,0,0
+ticam1 traf6 dependent induction of tak1 complex,0,0,0,0
+noncanonical activation of notch3,0,0,0,0
+loss of mecp2 binding ability to the ncor smrt complex,0,0,0,0
+mecp2 regulates transcription of neuronal ligands,0,0,0,0
+mecp2 regulates transcription factors,0,0,0,0
+activated ntrk2 signals through ras,0,0,0,0
+biosynthesis of maresin like spms,0,0,0,0
+activated ntrk2 signals through pi3k,0,0,0,0
+nr1h2 nr1h3 regulate gene expression to limit cholesterol uptake,0,0,0,0
+activated ntrk2 signals through fyn,0,0,0,0
+ntrk2 activates rac1,0,0,0,0
+tysnd1 cleaves peroxisomal proteins,0,0,0,0
+regulation of signaling by cbl,0,0,0,0
+endosomal sorting complex required for transport escrt,0,0,0,0
+irak2 mediated activation of tak1 complex,0,0,0,0
+traf6 mediated induction of tak1 complex within tlr4 complex,0,0,0,0
+molybdenum cofactor biosynthesis,0,0,0,0
+diseases of base excision repair,0,0,0,0
+regulation of localization of foxo transcription factors,0,0,0,0
+regulation of foxo transcriptional activity by acetylation,0,0,0,0
+activation of rac1 downstream of nmdars,0,0,0,0
+regulation of glycolysis by fructose 2 6 bisphosphate metabolism,0,0,0,0
+prevention of phagosomal lysosomal fusion,0,0,0,0
+modulation by mtb of host immune system,0,0,0,0
+suppression of phagosomal maturation,0,0,0,0
+alpha protein kinase 1 signaling pathway,0,0,0,0
+ras processing,0,0,0,0
+signaling by mapk mutants,0,0,0,0
+defective factor viii causes hemophilia a,0,0,0,0
+pexophagy,0,0,0,0
+acetylcholine inhibits contraction of outer hair cells,0,0,0,0
+maturation of sarscov1 nucleoprotein,0,0,0,0
+maturation of sarscov1 spike protein,0,0,0,0
+defective ripk1 mediated regulated necrosis,0,0,0,0
+maturation of sarscov2 nucleoprotein,0,0,0,0
+translation of replicase and assembly of the replication transcription complex,0,0,0,0
+stat3 nuclear events downstream of alk signaling,0,0,0,0
+flt3 signaling by cbl mutants,0,0,0,0
+regulation of hmox1 expression and activity,0,0,0,0
+traf6 mediated irf7 activation in tlr7 8 or 9 signaling,0,0,0,0
+sars cov 2 modulates autophagy,0,0,0,0
+sars cov 2 modulates host translation machinery,0,0,0,0
+cobalamin cbl metabolism,0,0,0,0
+sars cov 2 targets host intracellular signalling and regulatory pathways,-0.00068689,0.000529349,0.000557485,0.282
+early phase of hiv life cycle,-0.000964798,0.00056055,0.000575623,0.252
+hs gag degradation,-0.001393997,0.00275986,0.001307663,0.332
+2 ltr circle formation,-0.004082087,0.000562722,0.000668212,0.238
+biological oxidations,-0.005583835,0.025040946,0.004348152,0.45
+rho gtpases activate nadph oxidases,-0.006900666,0.00162867,0.000910267,0.336
+constitutive signaling by akt1 e17k in cancer,-0.010649974,0.000535136,0.000579405,0.268
+ephrin signaling,-0.012996216,0.000619182,0.000719824,0.272
+nrif signals cell death from the nucleus,-0.015510515,0.000611945,0.000696942,0.264
+shc mediated cascade fgfr1,-0.016306254,0.000566028,0.000605498,0.284
+regulation of tp53 expression and degradation,-0.022811207,0.003325363,0.001394209,0.39
+fgfr1c ligand binding and activation,-0.02605117,0.000572092,0.000611776,0.29
+rhot1 gtpase cycle,-0.02627122,0.000567967,0.000628536,0.31
+cgmp effects,-0.028605537,0.002806447,0.001329411,0.35
+metal sequestration by antimicrobial proteins,-0.031335438,0.002863079,0.001398663,0.352
+vitamin d calciferol metabolism,-0.032694288,0.001078181,0.000814038,0.31
+suppression of apoptosis,-0.039992934,0.000584772,0.000646472,0.282
+er quality control compartment erqc,-0.04155228,0.00055223,0.000595967,0.282
+nrage signals death through jnk,-0.046691616,0.003912553,0.001571984,0.4
+telomere extension by telomerase,-0.049014034,0.001156155,0.000968783,0.314
+other interleukin signaling,-0.049017332,0.00173498,0.001085475,0.338
+extension of telomeres,-0.049815707,0.001156067,0.000951408,0.322
+fgfr1b ligand binding and activation,-0.053881682,0.000591713,0.00065993,0.282
+p75ntr signals via nf kb,-0.053900592,0.0011473,0.000896537,0.334
+response of mtb to phagocytosis,-0.054088672,0.000592675,0.000624106,0.292
+regulation of commissural axon pathfinding by slit and robo,-0.057042917,0.000533751,0.000556634,0.304
+fgfr1 ligand binding and activation,-0.058857152,0.00059868,0.000722514,0.284
+advanced glycosylation endproduct receptor signaling,-0.060081896,0.001093584,0.000754998,0.342
+atf4 activates genes in response to endoplasmic reticulum stress,-0.061397268,0.002247528,0.001236535,0.358
+cdc6 association with the orc origin complex,-0.062330683,0.001708268,0.001186718,0.304
+phase 1 inactivation of fast na channels,-0.063049483,0.00054935,0.000609563,0.324
+detoxification of reactive oxygen species,-0.063216504,0.001130464,0.000943127,0.328
+calnexin calreticulin cycle,-0.06387507,0.000566138,0.000605431,0.298
+cell death signalling via nrage nrif and nade,-0.064629216,0.003948394,0.001690248,0.39
+frs mediated fgfr4 signaling,-0.06473559,0.002309115,0.001331678,0.346
+translation,-0.065415119,0.00229072,0.001209031,0.364
+nitric oxide stimulates guanylate cyclase,-0.06689527,0.002866738,0.001469758,0.354
+n glycan trimming in the er and calnexin calreticulin cycle,-0.070059846,0.000571544,0.000629139,0.306
+organelle biogenesis and maintenance,-0.071174115,0.011656137,0.002759281,0.444
+synthesis of ip3 and ip4 in the cytosol,-0.072235544,0.002267657,0.001239556,0.36
+acyl chain remodeling of cl,-0.072960796,0.000532108,0.000610173,0.338
+vegfr2 mediated vascular permeability,-0.073795816,0.001096534,0.000829566,0.326
+sphingolipid metabolism,-0.073913204,0.00456992,0.001769593,0.414
+dna strand elongation,-0.076446015,0.003352415,0.001534434,0.39
+runx1 regulates transcription of genes involved in differentiation of keratinocytes,-0.076697228,0.001182236,0.00088095,0.35
+uptake and actions of bacterial toxins,-0.077212464,0.001666198,0.001122775,0.348
+cyclin a cdk2 associated events at s phase entry,-0.078256903,0.005045261,0.001832636,0.408
+rnd3 gtpase cycle,-0.079444416,0.001599367,0.000995574,0.372
+nf kb is activated and signals survival,-0.080229062,0.001173827,0.000932965,0.34
+elevation of cytosolic ca2 levels,-0.082022644,0.001710976,0.001092924,0.362
+frs mediated fgfr2 signaling,-0.082914825,0.002214465,0.001117657,0.372
+insulin receptor recycling,-0.083332602,0.00107085,0.000818308,0.338
+relaxin receptors,-0.08339576,0.000577562,0.00062112,0.314
+unwinding of dna,-0.086777996,0.003370293,0.001557753,0.4
+nrcam interactions,-0.092783756,0.001672652,0.001089029,0.344
+metabolism of fat soluble vitamins,-0.093459442,0.007459073,0.002420845,0.44
+killing mechanisms,-0.094304214,0.001658089,0.001065645,0.356
+neurotoxicity of clostridium toxins,-0.096902464,0.001683961,0.001077941,0.346
+pi 3k cascade fgfr4,-0.099277906,0.002357174,0.001352421,0.372
+activation of the mrna upon binding of the cap binding complex and eifs and subsequent binding to 43s,-0.099704648,0.000561031,0.000572687,0.306
+zbp1 dai mediated induction of type i ifns,-0.100392174,0.000554125,0.000560635,0.332
+estrogen stimulated signaling through prkcz,-0.100401835,0.000587008,0.000578096,0.334
+signaling by fgfr2 in disease,-0.101405712,0.002328071,0.00138449,0.366
+signaling by fgfr4,-0.102663164,0.002360056,0.001335899,0.37
+surfactant metabolism,-0.105691736,0.003393439,0.001473344,0.39
+fatty acids,-0.10767235,0.002845234,0.001571255,0.372
+common pathway of fibrin clot formation,-0.107917824,0.002326787,0.001353757,0.37
+purinergic signaling in leishmaniasis infection,-0.10823103,0.001035709,0.000793645,0.34
+hdl assembly,-0.111671651,0.000535374,0.000534565,0.332
+pecam1 interactions,-0.11253035,0.001642888,0.000969511,0.374
+dna double strand break response,-0.113015323,0.001708974,0.001069415,0.376
+cross presentation of particulate exogenous antigens phagosomes,-0.113431025,0.000554821,0.000579279,0.324
+regulation of tp53 activity,-0.114524104,0.010273724,0.002738518,0.47
+met receptor recycling,-0.115316414,0.00109032,0.000836795,0.336
+met interacts with tns proteins,-0.116287881,0.001098804,0.000902762,0.366
+negative regulation of fgfr2 signaling,-0.116665976,0.002259252,0.001178215,0.378
+tryptophan catabolism,-0.117030628,0.001758328,0.001170448,0.372
+ptk6 regulates rho gtpases ras gtpase and map kinases,-0.118041997,0.000577273,0.000735707,0.324
+ikba variant leads to eda id,-0.119518438,0.000575096,0.000646388,0.358
+scf skp2 mediated degradation of p27 p21,-0.120968645,0.004688566,0.001948121,0.418
+dap12 interactions,-0.121211138,0.003427607,0.001508769,0.408
+defective intrinsic pathway for apoptosis,-0.12211374,0.002279395,0.001250136,0.372
+ptk6 expression,-0.122813574,0.000568393,0.000634818,0.338
+met activates ras signaling,-0.123951838,0.001093421,0.000803518,0.368
+metal ion slc transporters,-0.127255167,0.001760641,0.001111592,0.382
+g alpha 12 13 signalling events,-0.127679543,0.005163415,0.001950379,0.406
+miscellaneous substrates,-0.127824038,0.001774617,0.00112714,0.384
+met activates pi3k akt signaling,-0.128350776,0.001107296,0.000884075,0.374
+perk regulates gene expression,-0.128890144,0.002861324,0.001441417,0.396
+cd22 mediated bcr regulation,-0.130770054,0.003411861,0.001480842,0.42
+growth hormone receptor signaling,-0.13117924,0.002250836,0.001247842,0.37
+rhov gtpase cycle,-0.131570689,0.001620996,0.000975198,0.372
+downstream signaling of activated fgfr2,-0.132404193,0.002280774,0.001200714,0.41
+eicosanoids,-0.134029233,0.002870335,0.001449542,0.412
+hdl clearance,-0.13596616,0.000564608,0.000654057,0.36
+cytosolic iron sulfur cluster assembly,-0.137175409,0.000544748,0.000582122,0.334
+platelet homeostasis,-0.139465162,0.007472959,0.002175788,0.46
+mrna editing c to u conversion,-0.140472813,0.001090272,0.000830593,0.414
+alpha defensins,-0.141235201,0.000557517,0.000626356,0.322
+hdr through homologous recombination hrr,-0.141648327,0.003443713,0.001685812,0.412
+listeria monocytogenes entry into host cells,-0.141941193,0.001084671,0.00083155,0.362
+map3k8 tpl2 dependent mapk1 3 activation,-0.144528161,0.00058848,0.000627135,0.338
+irak1 recruits ikk complex,-0.145439147,0.001160424,0.000907388,0.36
+signaling by mras complex mutants,-0.145698076,0.000515629,0.000477058,0.396
+recycling of eif2 gdp,-0.146094585,0.000601179,0.000665651,0.344
+sensory processing of sound,-0.146725675,0.002671321,0.001231158,0.412
+response of eif2ak4 gcn2 to amino acid deficiency,-0.147024016,0.001804128,0.001264447,0.378
+rhoa gtpase cycle,-0.147668922,0.007893911,0.0023174,0.478
+homologous dna pairing and strand exchange,-0.150578623,0.003442368,0.001576899,0.41
+aflatoxin activation and detoxification,-0.150621793,0.001717158,0.001136694,0.37
+pi 3k cascade fgfr2,-0.152323932,0.002327073,0.001347647,0.39
+ros and rns production in phagocytes,-0.153891424,0.0011449,0.0009243,0.4
+passive transport by aquaporins,-0.156404214,0.001735911,0.001278177,0.374
+prolactin receptor signaling,-0.156969633,0.001717281,0.00108092,0.398
+rip mediated nfkb activation via zbp1,-0.158236706,0.000620996,0.000778297,0.336
+formyl peptide receptors bind formyl peptides and many other ligands,-0.15893229,0.001714006,0.001083527,0.408
+ptk6 regulates rtks and their effectors akt1 and dok1,-0.162957897,0.000599285,0.000668002,0.348
+cytosolic sensors of pathogen associated dna,-0.163533872,0.001629573,0.000980771,0.42
+glucocorticoid biosynthesis,-0.166408813,0.001085293,0.000789255,0.398
+intrinsic pathway for apoptosis,-0.166633083,0.002814075,0.001336505,0.412
+interleukin 21 signaling,-0.167094651,0.000490589,0.000471033,0.398
+free fatty acid receptors,-0.167358061,0.000593851,0.000700335,0.36
+drug mediated inhibition of cdk4 cdk6 activity,-0.167491524,0.001720223,0.001047554,0.384
+cargo concentration in the er,-0.172638625,0.003381526,0.001392611,0.438
+met activates rap1 and rac1,-0.17299555,0.001127916,0.000775119,0.424
+signaling by activin,-0.173394897,0.000594597,0.000764574,0.354
+cell junction organization,-0.173462483,0.009527158,0.002661209,0.472
+g protein beta gamma signalling,-0.175392814,0.002257477,0.001249811,0.404
+inwardly rectifying k channels,-0.175481849,0.003321697,0.001508316,0.428
+g beta gamma signalling through cdc42,-0.178191842,0.001705816,0.001102813,0.41
+glucagon type ligand receptors,-0.180196694,0.002931706,0.001404516,0.432
+translation of sarscov2 structural proteins,-0.18132341,0.001675929,0.001079481,0.418
+defensins,-0.18482835,0.000612255,0.000774783,0.338
+adp signalling through p2y purinoceptor 12,-0.186105881,0.001716764,0.001114745,0.438
+anchoring fibril formation,-0.18683648,0.003422816,0.001665539,0.412
+presynaptic function of kainate receptors,-0.189793055,0.001722774,0.001124751,0.414
+ptk6 regulates proteins involved in rna processing,-0.197091194,0.000634744,0.000732224,0.38
+synthesis of pe,-0.197225506,0.001090225,0.000847181,0.4
+signal transduction by l1,-0.198421028,0.001673018,0.001111984,0.406
+molecules associated with elastic fibres,-0.205286675,0.00959577,0.002641808,0.504
+p75 ntr receptor mediated signalling,-0.205857662,0.004724733,0.001883522,0.456
+inlb mediated entry of listeria monocytogenes into host cell,-0.206467408,0.001184067,0.001053081,0.376
+antigen processing cross presentation,-0.206779152,0.005706323,0.001916192,0.488
+copii mediated vesicle transport,-0.207854017,0.003471661,0.001590318,0.428
+mucopolysaccharidoses,-0.20897934,0.001110228,0.000810335,0.444
+synthesis of bile acids and bile salts via 24 hydroxycholesterol,-0.209276815,0.002287849,0.001261619,0.432
+mrna editing,-0.210149524,0.001166328,0.000917119,0.404
+release of hh np from the secreting cell,-0.210778367,0.000591712,0.000672527,0.406
+synthesis of bile acids and bile salts via 7alpha hydroxycholesterol,-0.211152874,0.002245596,0.001160905,0.436
+signaling by tgf beta receptor complex,-0.211357263,0.00626122,0.002124583,0.478
+g beta gamma signalling through pi3kgamma,-0.213098164,0.002320062,0.001322362,0.434
+ncam signaling for neurite out growth,-0.213807728,0.009057887,0.00249201,0.518
+rhobtb3 atpase cycle,-0.215978009,0.000567228,0.000620489,0.428
+regulation of nf kappa b signaling,-0.216181216,0.001114309,0.000838442,0.402
+transport of vitamins nucleosides and related molecules,-0.216334756,0.002751419,0.001315208,0.428
+beta oxidation of butanoyl coa to acetyl coa,-0.216490368,0.000599709,0.000711342,0.432
+telomere maintenance,-0.217712004,0.001744135,0.001239492,0.418
+gamma carboxylation transport and amino terminal cleavage of proteins,-0.219671226,0.000594328,0.000668608,0.41
+maturation of sarscov2 spike protein,-0.222176668,0.001720068,0.001079658,0.432
+tandem pore domain potassium channels,-0.22242666,0.002290132,0.001348009,0.438
+myogenesis,-0.223110137,0.00121787,0.00102313,0.408
+removal of aminoterminal propeptides from gamma carboxylated proteins,-0.223688475,0.000581912,0.000601096,0.396
+ptk6 regulates cell cycle,-0.224916736,0.001735894,0.001210017,0.452
+regulation of fzd by ubiquitination,-0.225310599,0.0010728,0.000644688,0.452
+tak1 dependent ikk and nf kappa b activation,-0.225809615,0.002266679,0.001263916,0.454
+selenoamino acid metabolism,-0.227606762,0.002879938,0.001456083,0.446
+fructose metabolism,-0.228594153,0.000570169,0.000631009,0.434
+prostacyclin signalling through prostacyclin receptor,-0.228656218,0.001796522,0.001256116,0.418
+tachykinin receptors bind tachykinins,-0.229660555,0.000574875,0.000641204,0.412
+serotonin receptors,-0.232319145,0.000595098,0.00073503,0.424
+fructose catabolism,-0.232965926,0.000595511,0.000727949,0.444
+rho gtpases activate rocks,-0.234208717,0.000544485,0.000594794,0.438
+met receptor activation,-0.237692423,0.001847358,0.001260349,0.412
+other semaphorin interactions,-0.237693376,0.003922329,0.00161278,0.448
+fc epsilon receptor fceri signaling,-0.242258601,0.008012408,0.002382852,0.494
+adenylate cyclase activating pathway,-0.244280413,0.001684851,0.001089871,0.464
+infection with mycobacterium tuberculosis,-0.244757494,0.001100514,0.000784228,0.468
+parasite infection,-0.246404766,0.005111907,0.001846035,0.48
+diseases of mitotic cell cycle,-0.246993001,0.004473328,0.00173803,0.484
+diseases associated with n glycosylation of proteins,-0.247917839,0.00055101,0.000544732,0.418
+tnfr2 non canonical nf kb pathway,-0.249912945,0.004545001,0.001786665,0.488
+adenylate cyclase inhibitory pathway,-0.250186973,0.001692649,0.001095309,0.47
+activation of the phototransduction cascade,-0.250312921,0.002288819,0.00132993,0.448
+dap12 signaling,-0.252204823,0.002959873,0.001579566,0.414
+vasopressin regulates renal water homeostasis via aquaporins,-0.253806628,0.004572769,0.001825407,0.462
+piwi interacting rna pirna biogenesis,-0.25541627,0.002261649,0.001237992,0.468
+mhc class ii antigen presentation,-0.25804675,0.010721403,0.002638868,0.532
+toxicity of botulinum toxin type d botd,-0.258385705,0.00123299,0.000992593,0.436
+caspase mediated cleavage of cytoskeletal proteins,-0.258730386,0.001203903,0.001187359,0.468
+glutamate neurotransmitter release cycle,-0.265044469,0.002222765,0.001176903,0.46
+interleukin 9 signaling,-0.265856095,0.000617565,0.00071173,0.416
+attachment and entry,-0.267563138,0.002776126,0.001334294,0.488
+metabolism of lipids,-0.26789271,0.05724447,0.00595824,0.566
+downregulation of erbb4 signaling,-0.272521054,0.00055975,0.000606415,0.478
+serine biosynthesis,-0.272981762,0.001749343,0.001161667,0.452
+sema4d in semaphorin signaling,-0.274008218,0.002272561,0.001135452,0.488
+nuclear events mediated by nfe2l2,-0.274279233,0.00286703,0.001526524,0.458
+signaling by membrane tethered fusions of pdgfra or pdgfrb,-0.275138925,0.00054919,0.000642545,0.49
+synthesis of dolichyl phosphate,-0.276138043,0.000576393,0.000664295,0.472
+rnd1 gtpase cycle,-0.277878631,0.004453411,0.00171941,0.484
+acyl chain remodeling of dag and tag,-0.278976811,0.001105438,0.000881857,0.464
+rho gtpase effectors,-0.279084179,0.022141688,0.003848439,0.56
+rmts methylate histone arginines,-0.279295668,0.001104237,0.000932866,0.458
+rho gtpases activate rhotekin and rhophilins,-0.284810743,0.000596111,0.000670379,0.468
+hormone ligand binding receptors,-0.285239411,0.00115496,0.000849658,0.5
+gene and protein expression by jak stat signaling after interleukin 12 stimulation,-0.285662716,0.000529642,0.000570808,0.548
+protein localization,-0.286557487,0.005583865,0.002033794,0.516
+rna polymerase i transcription termination,-0.286725993,0.000569359,0.000710599,0.49
+glucagon signaling in metabolic regulation,-0.287221521,0.003302522,0.001467686,0.49
+hs gag biosynthesis,-0.287586402,0.002399796,0.001378357,0.47
+carnitine metabolism,-0.28903268,0.00050258,0.000491311,0.526
+g2 m dna damage checkpoint,-0.290514183,0.002856275,0.001349304,0.486
+formation of rna pol ii elongation complex,-0.290529981,0.000550039,0.000634798,0.504
+synthesis of pips at the late endosome membrane,-0.291099815,0.000534944,0.000622533,0.57
+antigen activates b cell receptor bcr leading to generation of second messengers,-0.294049573,0.00395134,0.001544578,0.524
+translation of sarscov1 structural proteins,-0.294841615,0.000578726,0.000696156,0.51
+tp53 regulates transcription of several additional cell death genes whose specific roles in p53 dependent apoptosis remain uncertain,-0.295041493,0.001717881,0.001134843,0.454
+activation of the pre replicative complex,-0.295730573,0.00565668,0.00211633,0.518
+regulation of mrna stability by proteins that bind au rich elements,-0.296432774,0.001724135,0.001017781,0.494
+vasopressin like receptors,-0.296991774,0.00054652,0.00061372,0.54
+heme biosynthesis,-0.297984645,0.000553215,0.000543772,0.474
+hiv transcription elongation,-0.298645636,0.0005752,0.000701796,0.548
+gp1b ix v activation signalling,-0.300331803,0.001176085,0.000954643,0.482
+fcgr activation,-0.301177181,0.003971016,0.001643092,0.506
+microrna mirna biogenesis,-0.302451414,0.000546724,0.000598815,0.552
+formation of the early elongation complex,-0.302740848,0.000568939,0.000671621,0.552
+gaba synthesis release reuptake and degradation,-0.302913204,0.002234531,0.001169853,0.502
+irs activation,-0.303570317,0.000553675,0.000607102,0.526
+formation of tc ner pre incision complex,-0.303634717,0.000549778,0.000606539,0.522
+abortive elongation of hiv 1 transcript in the absence of tat,-0.305778959,0.000525133,0.000521687,0.524
+early sars cov 2 infection events,-0.309206776,0.002833461,0.001340017,0.518
+sodium coupled phosphate cotransporters,-0.309408565,0.000620942,0.000764866,0.494
+the nlrp3 inflammasome,-0.309979266,0.000549623,0.000512062,0.472
+synthesis of ip2 ip and ins in the cytosol,-0.310578749,0.002277712,0.001251016,0.49
+platelet adhesion to exposed collagen,-0.310844456,0.001176108,0.000922431,0.478
+metalloprotease dubs,-0.312086693,0.00058245,0.000613791,0.522
+acetylcholine neurotransmitter release cycle,-0.312691065,0.001165819,0.000942178,0.47
+negative regulation of notch4 signaling,-0.314062251,0.001145857,0.000921124,0.49
+cell surface interactions at the vascular wall,-0.314079288,0.01318917,0.00292599,0.556
+adrenoceptors,-0.315415663,0.001125023,0.000908252,0.506
+dual incision in tc ner,-0.318756556,0.000565055,0.000625692,0.58
+elastic fibre formation,-0.318773855,0.010892096,0.002912369,0.544
+serotonin and melatonin biosynthesis,-0.319280605,0.000629651,0.000767476,0.548
+rna polymerase i transcription,-0.319694047,0.00055165,0.000581927,0.514
+degradation of cysteine and homocysteine,-0.320253307,0.00053947,0.000639965,0.596
+rna polymerase iii transcription initiation from type 1 promoter,-0.321007441,0.000571108,0.00064016,0.56
+rhobtb1 gtpase cycle,-0.321659296,0.001101473,0.000840695,0.532
+rna polymerase iii chain elongation,-0.323835254,0.000613256,0.000764722,0.558
+cellular hexose transport,-0.32674888,0.001815654,0.001152558,0.494
+trp channels,-0.329067935,0.002265163,0.001222532,0.516
+the fatty acid cycling model,-0.330325465,0.000605835,0.00076098,0.592
+signal attenuation,-0.330786368,0.000577716,0.00062983,0.544
+zinc transporters,-0.33113144,0.000492683,0.000561212,0.64
+basigin interactions,-0.334953749,0.002897985,0.001392891,0.496
+terminal pathway of complement,-0.335058334,0.001152314,0.000886233,0.516
+ltc4 cysltr mediated il4 production,-0.335538339,0.000609151,0.000741751,0.558
+lipophagy,-0.335640224,0.000626151,0.000791253,0.56
+tp53 regulates metabolic genes,-0.336082838,0.001744229,0.001168579,0.518
+fgfr1 mutant receptor activation,-0.336812233,0.001177739,0.000950374,0.524
+maturation of protein 3a,-0.336824102,0.000596126,0.000661044,0.542
+rna polymerase i transcription initiation,-0.337183105,0.000560413,0.000577733,0.528
+rna polymerase iii transcription termination,-0.337191922,0.00058448,0.00064909,0.514
+nucleotide excision repair,-0.337907849,0.000568856,0.000601479,0.544
+interleukin 20 family signaling,-0.338603447,0.001627441,0.000935572,0.552
+ligand receptor interactions,-0.339570844,0.001113618,0.000931804,0.516
+assembly of active lpl and lipc lipase complexes,-0.339732893,0.002234687,0.001182752,0.508
+mrna capping,-0.341649214,0.000569219,0.000595956,0.526
+rna polymerase i promoter escape,-0.341692403,0.0005584,0.000564216,0.55
+hydrolysis of lpc,-0.34203956,0.001114352,0.000886568,0.562
+mitochondrial uncoupling,-0.342216845,0.000549032,0.000568551,0.556
+tnfr1 mediated ceramide production,-0.342285766,0.000559219,0.000638131,0.558
+traf6 mediated nf kb activation,-0.342911563,0.00282485,0.001428517,0.538
+glycogen synthesis,-0.343974441,0.000519921,0.000521691,0.588
+activation of noxa and translocation to mitochondria,-0.345763414,0.000520906,0.000624688,0.664
+activation of ppargc1a pgc 1alpha by phosphorylation,-0.345861924,0.000563959,0.00058805,0.584
+sos mediated signalling,-0.346530521,0.000561474,0.000554346,0.53
+inhibition of dna recombination at telomere,-0.34672036,0.000618275,0.000728723,0.56
+glycosphingolipid metabolism,-0.346753983,0.003364679,0.001488583,0.516
+glycogen metabolism,-0.348251153,0.000610242,0.000774642,0.644
+signaling by wnt in cancer,-0.348945309,0.001693006,0.001085526,0.542
+sars cov 2 targets pdz proteins in cell cell junction,-0.349191244,0.00052368,0.0005171,0.572
+orc1 removal from chromatin,-0.349916271,0.006198873,0.002161178,0.528
+sensing of dna double strand breaks,-0.350579181,0.000557589,0.000711306,0.642
+activated notch1 transmits signal to the nucleus,-0.351016055,0.000566818,0.000622687,0.57
+hiv elongation arrest and recovery,-0.351209888,0.000573136,0.000590883,0.536
+switching of origins to a post replicative state,-0.351704003,0.008531438,0.002524861,0.546
+signaling by fgfr2,-0.352854458,0.003304269,0.001518848,0.534
+synthesis of pc,-0.353866137,0.002263556,0.001190287,0.502
+complex i biogenesis,-0.355169726,0.000549358,0.000596498,0.584
+the phototransduction cascade,-0.356900972,0.003478168,0.001656034,0.528
+citric acid cycle tca cycle,-0.357383868,0.000574318,0.000612275,0.564
+respiratory electron transport,-0.359223012,0.000608467,0.000754316,0.61
+trafficking and processing of endosomal tlr,-0.359301177,0.001606655,0.000941653,0.55
+negative regulators of ddx58 ifih1 signaling,-0.359491705,0.000550174,0.000690887,0.67
+post chaperonin tubulin folding pathway,-0.361485974,0.001134425,0.000940501,0.576
+pi3k akt activation,-0.3635932,0.000641725,0.000749048,0.554
+mecp2 regulates neuronal receptors and channels,-0.363930953,0.001775991,0.001236123,0.538
+role of phospholipids in phagocytosis,-0.364012374,0.004422704,0.001834015,0.536
+vegfr2 mediated cell proliferation,-0.364941374,0.001124072,0.00086633,0.548
+g alpha s signalling events,-0.3650654,0.012604058,0.002931838,0.598
+metabolism of vitamins and cofactors,-0.365190674,0.015804143,0.003152423,0.582
+mrna splicing minor pathway,-0.365596481,0.00055604,0.000520871,0.572
+gaba b receptor activation,-0.365939036,0.005171804,0.001902427,0.54
+mineralocorticoid biosynthesis,-0.36642441,0.001210364,0.000946089,0.54
+mtor signalling,-0.367171106,0.001701262,0.001088569,0.558
+ptk6 promotes hif1a stabilization,-0.37017985,0.001107922,0.000896485,0.584
+rho gtpases activate cit,-0.370310221,0.002275403,0.001298216,0.55
+ficolins bind to repetitive carbohydrate structures on the target cell surface,-0.370629428,0.000573726,0.000667597,0.628
+metallothioneins bind metals,-0.372554249,0.000575782,0.000685552,0.648
+activated ntrk3 signals through ras,-0.373386738,0.00058957,0.000712882,0.66
+biosynthesis of specialized proresolving mediators spms,-0.376425323,0.003854906,0.001642522,0.552
+nonhomologous end joining nhej,-0.376517923,0.001147175,0.000898286,0.546
+lipid particle organization,-0.37853891,0.000571401,0.000667078,0.7
+notch hlh transcription pathway,-0.380024134,0.00056585,0.000601305,0.666
+transcription coupled nucleotide excision repair tc ner,-0.380314043,0.000612405,0.000648921,0.574
+response to metal ions,-0.381210353,0.000541732,0.000580664,0.65
+pka mediated phosphorylation of creb,-0.383609665,0.003478913,0.001590437,0.57
+runx1 regulates genes involved in megakaryocyte differentiation and platelet function,-0.383974857,0.000566652,0.000676241,0.66
+keap1 nfe2l2 pathway,-0.383977325,0.003332699,0.001525809,0.558
+signaling by csf3 g csf,-0.385889872,0.001768383,0.001213362,0.554
+gpvi mediated activation cascade,-0.386039549,0.00388659,0.001501684,0.572
+peptide hormone biosynthesis,-0.386102642,0.001202284,0.000978335,0.538
+shc related events triggered by igf1r,-0.387875207,0.001711769,0.001138724,0.56
+nf kb activation through fadd rip 1 pathway mediated by caspase 8 and 10,-0.387969165,0.001153765,0.000912746,0.584
+sealing of the nuclear envelope ne by escrt iii,-0.3882579,0.001110794,0.000814786,0.59
+cooperation of prefoldin and tric cct in actin and tubulin folding,-0.388569214,0.001151748,0.000919531,0.584
+ca2 activated k channels,-0.389116975,0.000573371,0.000669857,0.626
+integrin signaling,-0.38924226,0.001142591,0.000825537,0.564
+adora2b mediated anti inflammatory cytokines production,-0.389856462,0.011435414,0.002826228,0.584
+neddylation,-0.390184784,0.00699172,0.002336755,0.572
+energy dependent regulation of mtor by lkb1 ampk,-0.392506062,0.001796143,0.001260038,0.56
+formation of tubulin folding intermediates by cct tric,-0.392779014,0.001140499,0.000881035,0.554
+synthesis of substrates in n glycan biosythesis,-0.39451144,0.002772013,0.001352645,0.544
+synthesis of dna,-0.395046936,0.010259078,0.002734679,0.572
+a tetrasaccharide linker sequence is required for gag synthesis,-0.397329384,0.004068296,0.001719874,0.556
+myoclonic epilepsy of lafora,-0.399542002,0.000547413,0.000517944,0.612
+platelet sensitization by ldl,-0.400303204,0.001128018,0.000851101,0.58
+heme signaling,-0.400542719,0.005095012,0.001865125,0.564
+presynaptic depolarization and calcium channel opening,-0.40098308,0.001802909,0.001295539,0.59
+reactions specific to the complex n glycan synthesis pathway,-0.401828234,0.002256917,0.001229211,0.558
+hcmv early events,-0.402408611,0.004390196,0.001584209,0.576
+vitamin c ascorbate metabolism,-0.402474595,0.001076155,0.000814716,0.612
+tie2 signaling,-0.403782874,0.00163565,0.001071842,0.616
+abacavir metabolism,-0.405332807,0.000554907,0.00056883,0.628
+fcgamma receptor fcgr dependent phagocytosis,-0.405402826,0.005782269,0.002087524,0.546
+rho gtpases activate iqgaps,-0.405655775,0.001104491,0.000764304,0.56
+diseases of programmed cell death,-0.40626179,0.003534122,0.001706139,0.552
+signal regulatory protein family interactions,-0.406588959,0.000609823,0.000762668,0.702
+defective b4galt7 causes eds progeroid type,-0.406752104,0.00344897,0.001585461,0.57
+activation of c3 and c5,-0.407019977,0.002286603,0.001264958,0.57
+aggrephagy,-0.407735147,0.00117612,0.000936081,0.572
+reproduction,-0.407749039,0.003310681,0.001435648,0.582
+host interactions of hiv factors,-0.407891694,0.003453112,0.001598699,0.56
+plasma lipoprotein clearance,-0.408040389,0.002257079,0.001267471,0.572
+signaling by fgfr1,-0.408245601,0.002319632,0.001280513,0.558
+transport of fatty acids,-0.409872839,0.001157365,0.001032909,0.622
+biosynthesis of the n glycan precursor dolichol lipid linked oligosaccharide llo and transfer to a nascent protein,-0.409916745,0.002834512,0.001454278,0.564
+signaling by tgf beta receptor complex in cancer,-0.410403995,0.00117003,0.001072217,0.646
+ddx58 ifih1 mediated induction of interferon alpha beta,-0.41095802,0.002909894,0.001398922,0.552
+regulation of bach1 activity,-0.411674898,0.000582666,0.000690299,0.684
+pyrimidine catabolism,-0.412095767,0.000592385,0.000698366,0.69
+runx1 regulates transcription of genes involved in interleukin signaling,-0.412695128,0.000583656,0.000725483,0.706
+downstream signaling of activated fgfr1,-0.413771676,0.002376451,0.001400732,0.564
+bicarbonate transporters,-0.4140537,0.001722444,0.001119803,0.554
+netrin mediated repulsion signals,-0.41689396,0.000493248,0.000464189,0.662
+synthesis of 12 eicosatetraenoic acid derivatives,-0.417870104,0.001668987,0.001003808,0.584
+p2y receptors,-0.419081897,0.001710518,0.001108551,0.612
+traf6 mediated irf7 activation,-0.419561995,0.000541718,0.000571815,0.664
+tgf beta receptor signaling in emt epithelial to mesenchymal transition,-0.421824352,0.00116751,0.001037215,0.628
+serotonin neurotransmitter release cycle,-0.421889189,0.001676104,0.001035565,0.59
+sulfur amino acid metabolism,-0.422553929,0.002288821,0.001302643,0.586
+downstream signaling events of b cell receptor bcr,-0.422986056,0.001116325,0.000850741,0.646
+signaling by cytosolic fgfr1 fusion mutants,-0.423093433,0.000556784,0.000603407,0.728
+retrograde transport at the trans golgi network,-0.423272177,0.001165189,0.000936253,0.588
+cell cell junction organization,-0.423481102,0.005781982,0.002174014,0.586
+prolonged erk activation events,-0.423491083,0.000533553,0.000578423,0.698
+negative regulation of flt3,-0.424040142,0.001116955,0.000896188,0.656
+hcmv infection,-0.425039758,0.004487553,0.001728913,0.566
+apoptotic cleavage of cell adhesion proteins,-0.425713181,0.001766446,0.001150738,0.586
+activation of irf3 irf7 mediated by tbk1 ikk epsilon,-0.42800792,0.000535562,0.000550998,0.676
+dna methylation,-0.428123034,0.000655647,0.000822314,0.718
+synthesis of bile acids and bile salts via 27 hydroxycholesterol,-0.429496281,0.001126939,0.000920961,0.638
+eph ephrin signaling,-0.431020847,0.005055733,0.001820566,0.594
+zinc influx into cells by the slc39 gene family,-0.431709505,0.000587778,0.00065074,0.694
+chondroitin sulfate dermatan sulfate metabolism,-0.432800332,0.00453398,0.001758944,0.584
+activation of bad and translocation to mitochondria,-0.433024521,0.000550078,0.000657243,0.756
+activation of atr in response to replication stress,-0.434617056,0.006172538,0.00199627,0.588
+regulation of ifna ifnb signaling,-0.434730644,0.000568884,0.000619127,0.704
+alternative complement activation,-0.434922049,0.001159308,0.000912295,0.61
+erk mapk targets,-0.435973095,0.000521818,0.000580186,0.784
+lectin pathway of complement activation,-0.436749949,0.001101999,0.000856692,0.644
+s phase,-0.43730756,0.011840728,0.002704072,0.616
+spry regulation of fgf signaling,-0.437455296,0.000571548,0.000621362,0.716
+signaling by interleukins,-0.437596873,0.03953414,0.005449637,0.642
+thromboxane signalling through tp receptor,-0.438378023,0.002272515,0.001273874,0.58
+rna polymerase ii transcribes snrna genes,-0.438925897,0.001712232,0.001242216,0.62
+grb2 sos provides linkage to mapk signaling for integrins,-0.439255284,0.000568156,0.000628028,0.73
+aquaporin mediated transport,-0.439905904,0.00551894,0.001870753,0.606
+gaba receptor activation,-0.440281735,0.005621952,0.001858308,0.604
+interleukin 23 signaling,-0.443817125,0.000598904,0.000662942,0.726
+sars cov 1 infection,-0.444729767,0.001132306,0.00093082,0.654
+regulation of tp53 activity through methylation,-0.445160662,0.000552141,0.000611958,0.734
+meiosis,-0.447218659,0.003428741,0.00157293,0.574
+interleukin 15 signaling,-0.447860503,0.000565068,0.000588534,0.692
+met activates ptpn11,-0.447907157,0.00180239,0.00113603,0.57
+g alpha z signalling events,-0.448445633,0.003996609,0.001666582,0.57
+traf3 dependent irf activation pathway,-0.448481793,0.000556908,0.000568813,0.686
+lysosome vesicle biogenesis,-0.450014063,0.001575767,0.000861863,0.618
+chrebp activates metabolic gene expression,-0.450034405,0.000556029,0.000582745,0.704
+erks are inactivated,-0.45022025,0.000557726,0.000641582,0.758
+ras signaling downstream of nf1 loss of function variants,-0.450281722,0.000566506,0.000587919,0.708
+loss of function of smad2 3 in cancer,-0.451012477,0.00114321,0.000916212,0.654
+egfr transactivation by gastrin,-0.451339505,0.001081173,0.000815559,0.642
+metabolism of ingested semet sec mesec into h2se,-0.451522089,0.002190605,0.001211366,0.582
+translocation of slc2a4 glut4 to the plasma membrane,-0.45198179,0.00160365,0.00099258,0.588
+trafficking of glur2 containing ampa receptors,-0.452359546,0.001129048,0.00087607,0.646
+synthesis of bile acids and bile salts,-0.452476034,0.003302238,0.001347059,0.582
+signalling to erks,-0.453835798,0.000590345,0.000664885,0.714
+tp53 regulates transcription of genes involved in cytochrome c release,-0.454368342,0.001067278,0.000832157,0.686
+signaling by bmp,-0.454412387,0.002756733,0.001392702,0.634
+trans golgi network vesicle budding,-0.455154673,0.001637617,0.000988017,0.622
+clathrin mediated endocytosis,-0.455904672,0.010216097,0.002622512,0.61
+histidine catabolism,-0.455967815,0.000580872,0.000585012,0.692
+triglyceride metabolism,-0.457492074,0.004590028,0.001819687,0.608
+depolymerisation of the nuclear lamina,-0.458337142,0.001705829,0.001082166,0.622
+cd163 mediating an anti inflammatory response,-0.458513965,0.001171349,0.000997777,0.66
+chemokine receptors bind chemokines,-0.458899053,0.011490263,0.002824269,0.628
+regulation of pyruvate dehydrogenase pdh complex,-0.459740378,0.001096919,0.000853344,0.646
+nr1h2 nr1h3 regulate gene expression to control bile acid homeostasis,-0.460125115,0.000527947,0.000568878,0.784
+urea cycle,-0.462099928,0.000596435,0.000639663,0.734
+n glycan antennae elongation,-0.463067651,0.000527407,0.000497979,0.716
+clec7a dectin 1 induces nfat activation,-0.465389394,0.000523434,0.00052534,0.77
+lysine catabolism,-0.467504586,0.000591458,0.000638614,0.752
+sumoylation of dna methylation proteins,-0.468014619,0.000553779,0.000534563,0.682
+free fatty acids regulate insulin secretion,-0.468263413,0.00106684,0.000796462,0.666
+insertion of tail anchored proteins into the endoplasmic reticulum membrane,-0.469521402,0.000550243,0.000559218,0.754
+rhou gtpase cycle,-0.469736717,0.001672161,0.001052093,0.616
+muscarinic acetylcholine receptors,-0.472376131,0.000584502,0.000655987,0.756
+hedgehog ligand biogenesis,-0.472916024,0.001171381,0.00097859,0.66
+rab geranylgeranylation,-0.473965621,0.003357572,0.001564922,0.62
+signaling by lrp5 mutants,-0.473977802,0.001215937,0.001032398,0.684
+g protein activation,-0.475334346,0.00231146,0.001256765,0.618
+flt3 signaling,-0.477380897,0.003310221,0.001485597,0.594
+signaling by leptin,-0.477665932,0.001606663,0.00104771,0.658
+conjugation of benzoate with glycine,-0.480606516,0.000560788,0.000625064,0.774
+glutathione synthesis and recycling,-0.481200664,0.001180652,0.000996985,0.698
+golgi associated vesicle biogenesis,-0.481912114,0.001771114,0.001210175,0.592
+synthesis of 5 eicosatetraenoic acids,-0.482071351,0.002330792,0.001350277,0.612
+p130cas linkage to mapk signaling for integrins,-0.482153258,0.000590144,0.000617754,0.758
+mitochondrial translation,-0.482255981,0.000560844,0.000546038,0.738
+glucuronidation,-0.483601343,0.002887797,0.001501841,0.602
+degradation of axin,-0.483701177,0.000592231,0.000689678,0.796
+synthesis of 15 eicosatetraenoic acid derivatives,-0.484534932,0.00231995,0.001306798,0.604
+wnt5a dependent internalization of fzd4,-0.484610098,0.000594374,0.000656119,0.772
+cardiac conduction,-0.484939969,0.019812513,0.003913294,0.65
+pka activation in glucagon signalling,-0.48635761,0.002226365,0.00118366,0.65
+sumoylation of dna replication proteins,-0.486734049,0.004949714,0.001840874,0.602
+crosslinking of collagen fibrils,-0.487554262,0.003425624,0.001469972,0.636
+metabolic disorders of biological oxidation enzymes,-0.48796652,0.004070512,0.001780007,0.628
+signaling by tgfb family members,-0.488265454,0.009638244,0.00253996,0.61
+il 6 type cytokine receptor ligand interactions,-0.488986893,0.001680812,0.001069801,0.668
+positive epigenetic regulation of rrna expression,-0.489289951,0.001073252,0.00082067,0.708
+creation of c4 and c2 activators,-0.490617799,0.003890675,0.001498549,0.628
+activation of kainate receptors upon glutamate binding,-0.491830669,0.002318177,0.001235685,0.604
+prc2 methylates histones and dna,-0.492357009,0.001153504,0.000892152,0.678
+defective cftr causes cystic fibrosis,-0.494604729,0.000585116,0.000660089,0.794
+signaling by fgfr1 in disease,-0.494788868,0.001722481,0.001164625,0.668
+gastrin creb signalling pathway via pkc and mapk,-0.49508189,0.001168195,0.000919275,0.668
+cargo recognition for clathrin mediated endocytosis,-0.496854699,0.0084275,0.002379402,0.636
+chylomicron assembly,-0.498615273,0.001160023,0.00100052,0.746
+dectin 1 mediated noncanonical nf kb signaling,-0.49873864,0.001090686,0.000887956,0.734
+triglyceride catabolism,-0.499384748,0.00389973,0.001572744,0.624
+rna polymerase iii transcription,-0.501534641,0.001149616,0.000908213,0.696
+signaling by pdgfra transmembrane juxtamembrane and kinase domain mutants,-0.503370208,0.000512445,0.0004657,0.72
+recycling pathway of l1,-0.504311249,0.002917003,0.00148317,0.614
+pi 3k cascade fgfr1,-0.504985177,0.001721675,0.001142993,0.686
+metabolism of water soluble vitamins and cofactors,-0.506879598,0.009091837,0.002432285,0.648
+n glycan trimming and elongation in the cis golgi,-0.508242321,0.000603137,0.000703897,0.826
+intra golgi traffic,-0.510063447,0.000558931,0.000614717,0.822
+hiv infection,-0.510064083,0.005475574,0.001940342,0.644
+trna processing,-0.511543336,0.002853079,0.001333701,0.662
+hdms demethylate histones,-0.511565156,0.001124087,0.000864435,0.7
+runx3 regulates bcl2l11 bim transcription,-0.511741646,0.000632997,0.000771653,0.82
+activated ntrk2 signals through cdk5,-0.512613394,0.000571328,0.000602749,0.826
+rna polymerase ii pre transcription events,-0.512906986,0.001685258,0.001092582,0.676
+hdacs deacetylate histones,-0.513259897,0.000597081,0.000625696,0.768
+apoptotic execution phase,-0.514735303,0.003268738,0.001370985,0.638
+signaling by the b cell receptor bcr,-0.516319319,0.005246494,0.001922963,0.628
+activation of smo,-0.516682767,0.001694365,0.001062384,0.65
+phase 2 plateau phase,-0.519118473,0.002908006,0.001469715,0.626
+vitamins,-0.520243258,0.001658735,0.001179452,0.724
+diseases associated with surfactant metabolism,-0.520306821,0.001683414,0.001060452,0.672
+synaptic adhesion like molecules,-0.521693493,0.0023238,0.001306568,0.676
+selective autophagy,-0.524134178,0.00170386,0.001047133,0.672
+eph ephrin mediated repulsion of cells,-0.525529841,0.0039559,0.001616484,0.652
+rna polymerase iii transcription initiation from type 3 promoter,-0.527007896,0.001162204,0.000888201,0.7
+negative regulation of fgfr1 signaling,-0.527916845,0.001730755,0.001110542,0.656
+activated ntrk3 signals through pi3k,-0.528589057,0.001180675,0.000923041,0.712
+b wich complex positively regulates rrna expression,-0.529121478,0.001134273,0.000874216,0.714
+dna replication,-0.529909419,0.011309311,0.002664605,0.642
+platelet aggregation plug formation,-0.532021807,0.002809704,0.001461884,0.654
+degradation of gli1 by the proteasome,-0.532914879,0.000533109,0.000515046,0.814
+role of second messengers in netrin 1 signaling,-0.532940832,0.000561896,0.000598958,0.84
+transport of connexons to the plasma membrane,-0.533479069,0.001754102,0.001155701,0.692
+rrna modification in the nucleus and cytosol,-0.533498508,0.001175268,0.000957971,0.76
+azathioprine adme,-0.535256421,0.001681909,0.001063903,0.688
+fatty acids bound to gpr40 ffar1 regulate insulin secretion,-0.537098667,0.000575947,0.000691072,0.926
+signaling by vegf,-0.537963416,0.003447292,0.001575471,0.664
+sensory processing of sound by outer hair cells of the cochlea,-0.538034911,0.001204049,0.000980649,0.732
+heparan sulfate heparin hs gag metabolism,-0.538804722,0.005767693,0.002048277,0.644
+signaling by pdgfr in disease,-0.540026417,0.001155581,0.000935426,0.752
+constitutive signaling by overexpressed erbb2,-0.541126421,0.0005824,0.000639098,0.884
+sema4d induced cell migration and growth cone collapse,-0.541341399,0.001707853,0.000990759,0.68
+reversible hydration of carbon dioxide,-0.541856002,0.001664353,0.001079335,0.72
+adp signalling through p2y purinoceptor 1,-0.543853472,0.003291394,0.001333069,0.68
+peroxisomal lipid metabolism,-0.545086148,0.002811293,0.001290579,0.674
+interleukin 27 signaling,-0.546597123,0.000538668,0.000635624,0.946
+the activation of arylsulfatases,-0.550223954,0.00115399,0.00097198,0.766
+regulation of ifng signaling,-0.550433179,0.001201025,0.001053167,0.764
+kinesins,-0.551669701,0.007821151,0.002225943,0.646
+neurotransmitter clearance,-0.553152973,0.001586551,0.00095525,0.704
+sema3a plexin repulsion signaling by inhibiting integrin adhesion,-0.553336416,0.001685612,0.001070631,0.704
+role of lat2 ntal lab on calcium mobilization,-0.553429277,0.003916152,0.001621085,0.686
+multifunctional anion exchangers,-0.554278482,0.000567802,0.000635709,0.904
+recycling of bile acids and salts,-0.55477676,0.001172569,0.000928657,0.754
+frs mediated fgfr1 signaling,-0.554793115,0.001647611,0.00090688,0.678
+pkmts methylate histone lysines,-0.555226485,0.001108229,0.000849259,0.71
+defective chst3 causes sedcjd,-0.556435953,0.001633004,0.001024512,0.724
+acyl chain remodelling of pi,-0.556964448,0.001731739,0.001126742,0.696
+mapk family signaling cascades,-0.557827244,0.027544308,0.004310775,0.688
+synthesis of leukotrienes lt and eoxins ex,-0.55885385,0.003992907,0.001740048,0.648
+mrna splicing,-0.558880463,0.002734786,0.001348131,0.678
+electric transmission across gap junctions,-0.559843046,0.00059219,0.000719519,0.932
+respiratory electron transport atp synthesis by chemiosmotic coupling and heat production by uncoupling proteins,-0.560239069,0.001151393,0.000820059,0.7
+gper1 signaling,-0.560956002,0.004518674,0.001829635,0.658
+hiv transcription initiation,-0.561347567,0.001761296,0.001133756,0.698
+darpp 32 events,-0.561403286,0.000541396,0.000550994,0.83
+notch3 activation and transmission of signal to the nucleus,-0.561770196,0.00175407,0.001122526,0.712
+antigen presentation folding assembly and peptide loading of class i mhc,-0.562533024,0.000593772,0.000644839,0.854
+norepinephrine neurotransmitter release cycle,-0.562732573,0.002888365,0.001434098,0.656
+apoptotic cleavage of cellular proteins,-0.562764675,0.003485719,0.00163954,0.682
+sumoylation of transcription cofactors,-0.56329616,0.000583245,0.000656731,0.888
+ampk inhibits chrebp transcriptional activation activity,-0.563418259,0.001745895,0.001170254,0.732
+wnt5a dependent internalization of fzd2 fzd5 and ror2,-0.564028064,0.001133336,0.000845796,0.744
+methylation,-0.56438918,0.000563893,0.000598586,0.874
+defective chsy1 causes tpbs,-0.564681736,0.001696389,0.001121801,0.736
+hyaluronan metabolism,-0.566179253,0.001697005,0.001185837,0.788
+regulation of gene expression by hypoxia inducible factor,-0.566211515,0.000544882,0.000665667,0.968
+signal amplification,-0.566828402,0.003382885,0.001440446,0.692
+nervous system development,-0.568371934,0.045432436,0.005531201,0.684
+defective chst14 causes eds musculocontractural type,-0.569036345,0.001603901,0.000950682,0.726
+cytosolic sulfonation of small molecules,-0.569204286,0.001645479,0.000975173,0.714
+creb1 phosphorylation through the activation of adenylate cyclase,-0.570057562,0.001769339,0.001192124,0.722
+tp53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,-0.570733724,0.000574599,0.000604897,0.856
+transcription of the hiv genome,-0.570932703,0.001668065,0.000951426,0.708
+interleukin 2 family signaling,-0.57211796,0.004030718,0.001701359,0.67
+defective galnt3 causes hftc,-0.572869812,0.002690751,0.00120155,0.702
+assembly of the orc complex at the origin of replication,-0.572872884,0.001058688,0.000768887,0.776
+regulation of ras by gaps,-0.574980412,0.001088745,0.000918876,0.832
+response of eif2ak1 hri to heme deficiency,-0.57565608,0.001622798,0.000988115,0.748
+mitochondrial fatty acid beta oxidation of saturated fatty acids,-0.576311436,0.001177657,0.000974792,0.788
+copi dependent golgi to er retrograde traffic,-0.57913032,0.007857399,0.002182986,0.692
+ethanol oxidation,-0.581113805,0.001694627,0.001117185,0.752
+erythropoietin activates ras,-0.582064195,0.000548082,0.000653035,0.958
+miscellaneous transport and binding events,-0.582930077,0.002807732,0.001378075,0.684
+diseases associated with glycosylation precursor biosynthesis,-0.583121806,0.001147238,0.000897098,0.77
+beta oxidation of very long chain fatty acids,-0.583329085,0.000521127,0.000482073,0.81
+copi independent golgi to er retrograde traffic,-0.583468395,0.00223124,0.001360086,0.738
+vitamin b1 thiamin metabolism,-0.583778368,0.00057341,0.000662392,0.948
+hdl remodeling,-0.585975846,0.001702689,0.001109877,0.758
+retrograde neurotrophin signalling,-0.586105299,0.000547962,0.000633411,0.96
+signaling by egfr in cancer,-0.589564898,0.002317387,0.001360714,0.736
+ionotropic activity of kainate receptors,-0.590311063,0.000563662,0.000614144,0.934
+chl1 interactions,-0.59032619,0.001805755,0.001231001,0.778
+signaling by scf kit,-0.590799372,0.004556616,0.001716395,0.674
+pcp ce pathway,-0.591184975,0.003390631,0.00148028,0.682
+stat5 activation downstream of flt3 itd mutants,-0.593012783,0.001162203,0.000945993,0.82
+glucagon like peptide 1 glp1 regulates insulin secretion,-0.594284946,0.002832745,0.00136707,0.736
+stat5 activation,-0.594587912,0.001094675,0.000829917,0.822
+diseases of carbohydrate metabolism,-0.594919735,0.002267535,0.00117346,0.724
+metabolism of porphyrins,-0.595038892,0.002420275,0.001375737,0.714
+pi3k events in erbb4 signaling,-0.595689128,0.001597378,0.000939623,0.756
+glutathione conjugation,-0.595937014,0.004444731,0.001670454,0.676
+negative epigenetic regulation of rrna expression,-0.597348606,0.001128309,0.000814869,0.782
+interleukin 6 family signaling,-0.597887314,0.002217795,0.001271763,0.76
+shc1 events in egfr signaling,-0.599246723,0.00231761,0.001339101,0.738
+role of abl in robo slit signaling,-0.599655309,0.000572292,0.000633636,0.93
+dermatan sulfate biosynthesis,-0.603122404,0.00168713,0.001034951,0.72
+egfr interacts with phospholipase c gamma,-0.603432729,0.002312189,0.001320829,0.75
+fceri mediated nf kb activation,-0.605128564,0.004486218,0.001672759,0.694
+signaling by flt3 itd and tkd mutants,-0.606665147,0.00111627,0.000848991,0.856
+heme degradation,-0.606787961,0.002336401,0.001210875,0.71
+n glycan antennae elongation in the medial trans golgi,-0.607435586,0.002864647,0.001325001,0.71
+epha mediated growth cone collapse,-0.608179505,0.002301796,0.001302453,0.722
+vldl assembly,-0.608399225,0.000546547,0.000593486,0.944
+auf1 hnrnp d0 binds and destabilizes mrna,-0.611368122,0.001164022,0.001026436,0.86
+tp53 regulates transcription of cell death genes,-0.611860802,0.002887966,0.001333209,0.718
+interleukin 1 signaling,-0.612410596,0.005069191,0.001749719,0.68
+sema3a pak dependent axon repulsion,-0.613580177,0.001132226,0.000927019,0.856
+class i peroxisomal membrane protein import,-0.613750913,0.001132291,0.000870211,0.82
+mastl facilitates mitotic progression,-0.613843443,0.001118754,0.000899468,0.87
+rna polymerase ii transcription termination,-0.613972831,0.001132749,0.000890256,0.83
+scf beta trcp mediated degradation of emi1,-0.614976417,0.001110239,0.000826213,0.818
+phase 4 resting membrane potential,-0.615451752,0.004072833,0.001749396,0.67
+potential therapeutics for sars,-0.615688089,0.005187774,0.001934729,0.668
+hemostasis,-0.617188423,0.056326341,0.006290995,0.7
+slc transporter disorders,-0.617216692,0.00739627,0.00222731,0.688
+sodium proton exchangers,-0.61738639,0.001125864,0.000915609,0.862
+phenylalanine metabolism,-0.617939989,0.001090177,0.000847145,0.844
+cell cell communication,-0.619604458,0.011557158,0.0026455,0.692
+shc1 events in erbb4 signaling,-0.621077555,0.001740994,0.001132451,0.784
+atorvastatin adme,-0.622004828,0.002276315,0.001322965,0.774
+asymmetric localization of pcp proteins,-0.623313616,0.001192419,0.001054645,0.906
+met promotes cell motility,-0.623342963,0.009517715,0.00255835,0.698
+class i mhc mediated antigen processing presentation,-0.626048671,0.013734718,0.003120703,0.704
+downregulation of tgf beta receptor signaling,-0.626095317,0.001603736,0.000939965,0.766
+glycogen storage diseases,-0.626546015,0.00119485,0.000903866,0.784
+hsf1 activation,-0.627482442,0.002788453,0.00147706,0.762
+synthesis of pips at the golgi membrane,-0.627527844,0.000547465,0.000567732,0.922
+interleukin 37 signaling,-0.627916408,0.001147683,0.000838259,0.824
+signaling by alk,-0.628705202,0.001670618,0.001005314,0.746
+activated ntrk2 signals through frs2 and frs3,-0.629874932,0.001080797,0.000781854,0.824
+adherens junctions interactions,-0.632086272,0.002794723,0.001373905,0.742
+chondroitin sulfate biosynthesis,-0.633389943,0.001679047,0.000972732,0.752
+beta oxidation of pristanoyl coa,-0.634640257,0.00171051,0.001153345,0.812
+regulation of tp53 activity through phosphorylation,-0.637110333,0.008001196,0.002334414,0.7
+amino acid conjugation,-0.637492531,0.001107749,0.000814076,0.848
+defective csf2rb causes smdp5,-0.639185657,0.00054467,0.000548517,0.932
+cross presentation of soluble exogenous antigens endosomes,-0.639269927,0.00112364,0.000876033,0.846
+downregulation of erbb2 erbb3 signaling,-0.639984683,0.001734614,0.001173392,0.812
+ldl remodeling,-0.641466791,0.000542874,0.000611784,0.988
+ca dependent events,-0.64217428,0.005053779,0.001842591,0.712
+synthesis of pips at the plasma membrane,-0.643876677,0.003422252,0.001590284,0.754
+sensory perception of taste,-0.644931414,0.003428175,0.001627137,0.754
+androgen biosynthesis,-0.645411422,0.002836281,0.00151493,0.774
+sensory perception of salty taste,-0.645596231,0.001105573,0.000856403,0.878
+creb1 phosphorylation through nmda receptor mediated activation of ras signaling,-0.645865859,0.002239253,0.001239293,0.772
+chylomicron remodeling,-0.647071629,0.00175332,0.001135354,0.772
+erythropoietin activates stat5,-0.647189556,0.000529214,0.000558168,0.964
+erythropoietin activates phosphoinositide 3 kinase pi3k,-0.648528084,0.00057693,0.000630592,0.98
+erythropoietin activates phospholipase c gamma plcg,-0.649296926,0.000573905,0.000625185,0.972
+rhoq gtpase cycle,-0.650241221,0.002218182,0.001238352,0.8
+signaling by erythropoietin,-0.651941238,0.00056953,0.00061594,0.968
+leishmania infection,-0.652473793,0.021345796,0.003823445,0.71
+foxo mediated transcription of cell death genes,-0.654766583,0.001092036,0.000741221,0.824
+plasma lipoprotein remodeling,-0.661101539,0.003921394,0.001620379,0.72
+dopamine neurotransmitter release cycle,-0.661510101,0.002270956,0.001245172,0.766
+hyaluronan uptake and degradation,-0.663446129,0.001737698,0.001073318,0.81
+smooth muscle contraction,-0.663779392,0.002803649,0.001397005,0.758
+er to golgi anterograde transport,-0.664771656,0.006274669,0.002149197,0.708
+late endosomal microautophagy,-0.669664888,0.000528424,0.000541642,0.958
+ion transport by p type atpases,-0.669834602,0.005062481,0.001762071,0.712
+rac2 gtpase cycle,-0.670220204,0.0033884,0.00160936,0.776
+cs ds degradation,-0.670289032,0.002310427,0.001282625,0.782
+muscle contraction,-0.671869962,0.026147655,0.004226534,0.722
+receptor type tyrosine protein phosphatases,-0.67237742,0.002223678,0.001168671,0.782
+vldl clearance,-0.672857095,0.001080193,0.000828113,0.904
+abc transporter disorders,-0.673270013,0.003371976,0.001391754,0.726
+beta oxidation of lauroyl coa to decanoyl coa coa,-0.673333125,0.000553228,0.000568908,0.978
+nr1h2 nr1h3 regulate gene expression linked to gluconeogenesis,-0.674071057,0.001148099,0.000905612,0.9
+inflammasomes,-0.674089637,0.002222287,0.001201758,0.81
+cilium assembly,-0.676468088,0.009761112,0.002489743,0.726
+g2 m dna replication checkpoint,-0.677255608,0.001689169,0.001048742,0.828
+g protein mediated events,-0.678116664,0.006738443,0.002110844,0.734
+scavenging of heme from plasma,-0.678202095,0.008091576,0.002634058,0.714
+g2 m checkpoints,-0.679887424,0.010389788,0.002858377,0.742
+abc transporters in lipid homeostasis,-0.680857025,0.002903321,0.001560488,0.792
+constitutive signaling by ligand responsive egfr cancer variants,-0.682099559,0.001114359,0.000863252,0.9
+acyl chain remodelling of ps,-0.682117209,0.002886922,0.001450638,0.774
+mapk1 erk2 activation,-0.68240483,0.001137362,0.000947229,0.926
+met activates ptk2 signaling,-0.683596399,0.00953874,0.002363609,0.722
+copi mediated anterograde transport,-0.684059697,0.003485962,0.001644589,0.768
+bile acid and bile salt metabolism,-0.684334694,0.004667276,0.001924758,0.756
+acyl chain remodelling of pc,-0.684524475,0.002289056,0.00125832,0.814
+metabolism of amino acids and derivatives,-0.684990245,0.026607319,0.004194131,0.7
+sumoylation of chromatin organization proteins,-0.685544419,0.002223378,0.001233165,0.822
+acyl chain remodelling of pe,-0.686520161,0.002281934,0.001244287,0.804
+creb1 phosphorylation through the activation of camkii camkk camkiv cascasde,-0.68775298,0.001131844,0.000898179,0.908
+interleukin 12 signaling,-0.688320191,0.001732997,0.001127619,0.85
+protein folding,-0.689331924,0.006790847,0.002031178,0.73
+chaperone mediated autophagy,-0.689775992,0.000554263,0.00056331,0.966
+digestion of dietary carbohydrate,-0.691216479,0.003936449,0.001596744,0.762
+fcgr3a mediated il10 synthesis,-0.691257871,0.0073948,0.002223708,0.724
+regulation of insulin secretion,-0.694748023,0.006930142,0.002322131,0.748
+interleukin 6 signaling,-0.694908974,0.001094837,0.00086899,0.938
+downstream signal transduction,-0.695954726,0.001702437,0.001068127,0.844
+apoptosis,-0.696221888,0.006988382,0.002262694,0.73
+antimicrobial peptides,-0.697306901,0.007967944,0.002449761,0.73
+initial triggering of complement,-0.697915131,0.006782998,0.002171152,0.77
+gab1 signalosome,-0.698259218,0.002894868,0.001546675,0.822
+fatty acyl coa biosynthesis,-0.700764729,0.003411505,0.001471678,0.774
+interleukin 35 signalling,-0.700972902,0.001145483,0.00095392,0.952
+signaling by flt3 fusion proteins,-0.701428325,0.001098126,0.00088868,0.946
+mitotic telophase cytokinesis,-0.702379817,0.001662443,0.001054554,0.876
+amyloid fiber formation,-0.703267219,0.004466037,0.001723003,0.766
+nephrin family interactions,-0.703679557,0.00115783,0.000859913,0.884
+opioid signalling,-0.703727734,0.008523292,0.002425574,0.724
+aspirin adme,-0.703832858,0.00579299,0.002129895,0.736
+semaphorin interactions,-0.704841526,0.007955191,0.002311152,0.742
+fceri mediated ca 2 mobilization,-0.707944778,0.004580795,0.001790609,0.758
+mitochondrial fatty acid beta oxidation of unsaturated fatty acids,-0.708406855,0.000527795,0.000504839,0.96
+neurexins and neuroligins,-0.710601709,0.005471713,0.001938298,0.754
+activation of ampk downstream of nmdars,-0.711381388,0.00227128,0.001274166,0.838
+metabolism of nucleotides,-0.717100962,0.006261615,0.002155891,0.762
+rhoj gtpase cycle,-0.717270898,0.002268567,0.001192873,0.782
+synthesis secretion and deacylation of ghrelin,-0.719370081,0.003359189,0.001499305,0.774
+acyl chain remodelling of pg,-0.719884399,0.002327958,0.001250552,0.818
+phase 3 rapid repolarisation,-0.720725613,0.002238942,0.001211,0.834
+antigen processing ubiquitination proteasome degradation,-0.721169518,0.008563664,0.002543257,0.75
+constitutive signaling by egfrviii,-0.72169854,0.001102915,0.00080003,0.898
+aspartate and asparagine metabolism,-0.721863711,0.001698837,0.001127265,0.88
+apc cdc20 mediated degradation of nek2a,-0.721961609,0.002838759,0.001411996,0.782
+camk iv mediated phosphorylation of creb,-0.722782837,0.001119928,0.000838161,0.91
+post translational modification synthesis of gpi anchored proteins,-0.72543255,0.010357305,0.002833433,0.738
+voltage gated potassium channels,-0.726469943,0.002229838,0.001229541,0.854
+neurotransmitter release cycle,-0.726719311,0.005982178,0.001893399,0.752
+gamma carboxylation hypusine formation and arylsulfatase activation,-0.729725178,0.002254339,0.001199332,0.818
+acetylcholine regulates insulin secretion,-0.730300849,0.001138903,0.000903053,0.944
+keratan sulfate degradation,-0.730941605,0.003331563,0.001578817,0.832
+protein ubiquitination,-0.732019938,0.001143293,0.000955013,0.952
+anti inflammatory response favouring leishmania parasite infection,-0.732771367,0.017460339,0.003135395,0.756
+erythrocytes take up oxygen and release carbon dioxide,-0.733590031,0.002225953,0.001241764,0.866
+transcriptional regulation by e2f6,-0.73411014,0.002389224,0.001502509,0.876
+metabolism of rna,-0.734121205,0.010815688,0.002774563,0.75
+branched chain amino acid catabolism,-0.736404822,0.002343971,0.001337522,0.816
+ras activation upon ca2 influx through nmda receptor,-0.736575,0.00163343,0.000982331,0.854
+defective chst6 causes mcdc1,-0.738895988,0.003295142,0.00151253,0.844
+dna replication pre initiation,-0.74042487,0.007377199,0.002219733,0.766
+interconversion of nucleotide di and triphosphates,-0.740695668,0.002791365,0.00138987,0.84
+grb7 events in erbb2 signaling,-0.742636667,0.002261703,0.001207495,0.816
+defective b4galt1 causes b4galt1 cdg cdg 2d,-0.742678504,0.00332367,0.001543239,0.816
+potassium channels,-0.744131823,0.008471897,0.002385667,0.748
+egfr downregulation,-0.744709414,0.002886703,0.001604423,0.868
+glutamate and glutamine metabolism,-0.74487055,0.001109167,0.000884473,0.964
+signaling by ntrk3 trkc,-0.745051621,0.001759963,0.001223267,0.936
+pi metabolism,-0.745490391,0.004072131,0.001770782,0.766
+linoleic acid la metabolism,-0.746599945,0.001738234,0.00117699,0.93
+gap junction degradation,-0.748738595,0.001167502,0.000907433,0.95
+interaction between l1 and ankyrins,-0.75156577,0.005047946,0.00184407,0.778
+nicotinamide salvaging,-0.751635337,0.000547892,0.000581654,0.994
+signaling by rho gtpases miro gtpases and rhobtb3,-0.754755602,0.045746377,0.005412815,0.766
+cooperation of pdcl phlp1 and tric cct in g protein beta folding,-0.757982118,0.003834388,0.001587192,0.8
+ra biosynthesis pathway,-0.760856975,0.00454599,0.001787946,0.822
+plasma lipoprotein assembly,-0.761266596,0.001685384,0.001101801,0.93
+na cl dependent neurotransmitter transporters,-0.764931954,0.002190616,0.001200482,0.87
+plasma lipoprotein assembly remodeling and clearance,-0.765404037,0.005636606,0.001988786,0.784
+digestion of dietary lipid,-0.766207145,0.001041183,0.000707784,0.932
+assembly and cell surface presentation of nmda receptors,-0.766450441,0.003892767,0.001584104,0.82
+attenuation phase,-0.771196336,0.003388379,0.001518211,0.814
+defects in biotin btn metabolism,-0.77166754,0.001154584,0.000946716,0.97
+rac3 gtpase cycle,-0.772611407,0.005591407,0.001934515,0.778
+organic cation anion zwitterion transport,-0.772932036,0.00110761,0.000855349,0.948
+uch proteinases,-0.773081472,0.002265221,0.001299424,0.87
+gluconeogenesis,-0.776592021,0.001694524,0.001129223,0.906
+arachidonic acid metabolism,-0.776828501,0.009675244,0.002564636,0.76
+sialic acid metabolism,-0.779363447,0.001192098,0.000934222,0.956
+defective st3gal3 causes mct12 and eiee15,-0.781645002,0.003392193,0.00155397,0.836
+o glycosylation of tsr domain containing proteins,-0.782419174,0.00396232,0.001723334,0.812
+golgi to er retrograde transport,-0.784279538,0.009180913,0.002479374,0.774
+influenza infection,-0.784878234,0.003614839,0.001675648,0.82
+laminin interactions,-0.78488999,0.007403941,0.002286194,0.78
+intra golgi and retrograde golgi to er traffic,-0.787318491,0.010293627,0.002792499,0.778
+bh3 only proteins associate with and inactivate anti apoptotic bcl 2 members,-0.790555802,0.001737342,0.001174926,0.936
+thrombin signalling through proteinase activated receptors pars,-0.790967717,0.003533783,0.001579948,0.826
+meiotic recombination,-0.793050464,0.001690496,0.001135879,0.934
+negative regulation of met activity,-0.793235654,0.003374492,0.001458409,0.848
+map2k and mapk activation,-0.797076239,0.002748661,0.001320526,0.856
+synthesis of lipoxins lx,-0.79809719,0.001722838,0.001136208,0.952
+vitamin b2 riboflavin metabolism,-0.798388469,0.001067807,0.000772681,0.962
+transport of bile salts and organic acids metal ions and amine compounds,-0.798526407,0.0067412,0.002189596,0.808
+interleukin receptor shc signaling,-0.799076334,0.002228754,0.001297005,0.924
+interleukin 7 signaling,-0.799934566,0.002796589,0.001429243,0.896
+organic cation transport,-0.803665049,0.001113993,0.000830581,0.962
+class b 2 secretin family receptors,-0.807439607,0.008961555,0.002407908,0.772
+tp53 regulates transcription of genes involved in g2 cell cycle arrest,-0.809407238,0.001715001,0.001106504,0.948
+raf activation,-0.810446728,0.001727351,0.001098547,0.904
+dag and ip3 signaling,-0.810697901,0.005199448,0.001896609,0.818
+synthesis of prostaglandins pg and thromboxanes tx,-0.810883343,0.001101763,0.000808899,0.962
+cellular response to hypoxia,-0.812232239,0.001117629,0.000850769,0.982
+crmps in sema3a signaling,-0.813188321,0.001704105,0.001080106,0.914
+assembly of collagen fibrils and other multimeric structures,-0.815917091,0.017802913,0.003674694,0.776
+activation of nima kinases nek9 nek6 nek7,-0.816783109,0.002325625,0.001282768,0.872
+carboxyterminal post translational modifications of tubulin,-0.817856542,0.004034949,0.001774825,0.838
+pyruvate metabolism,-0.817952516,0.002857475,0.001431884,0.892
+clec7a dectin 1 signaling,-0.818748426,0.003481796,0.001537119,0.854
+conversion from apc c cdc20 to apc c cdh1 in late anaphase,-0.819264493,0.001607795,0.001001003,0.934
+diseases associated with glycosaminoglycan metabolism,-0.819607026,0.007220408,0.002022833,0.782
+collagen chain trimerization,-0.819970201,0.010651413,0.002679193,0.762
+defective c1galt1c1 causes tnps,-0.821113009,0.002249331,0.001234023,0.906
+regulation of pten stability and activity,-0.821120125,0.001070869,0.000765683,0.958
+cell cycle checkpoints,-0.822288322,0.027976506,0.0044674,0.792
+condensation of prophase chromosomes,-0.827466409,0.002227693,0.001199599,0.904
+defects in vitamin and cofactor metabolism,-0.828720326,0.001079105,0.00079046,0.966
+alpha linolenic omega3 and linoleic omega6 acid metabolism,-0.828968648,0.001763199,0.001090156,0.91
+amine ligand binding receptors,-0.829535665,0.002871794,0.001408899,0.874
+biotin transport and metabolism,-0.829762652,0.001085002,0.000796575,0.972
+gap junction assembly,-0.830076917,0.002913074,0.00157173,0.904
+erythrocytes take up carbon dioxide and release oxygen,-0.832754827,0.002232526,0.001101787,0.864
+condensation of prometaphase chromosomes,-0.832920593,0.003377953,0.001492678,0.862
+activation of bh3 only proteins,-0.837763121,0.001699152,0.001063134,0.918
+golgi cisternae pericentriolar stack reorganization,-0.83930701,0.002227297,0.001131189,0.892
+paracetamol adme,-0.840851781,0.004026809,0.00173957,0.838
+signaling by ntrk2 trkb,-0.842013196,0.002156537,0.001166812,0.914
+abacavir adme,-0.842361582,0.00177613,0.001193436,0.974
+keratan sulfate biosynthesis,-0.842826195,0.004482974,0.001758339,0.85
+tbc rabgaps,-0.844365266,0.001162418,0.000928515,0.994
+aberrant regulation of mitotic exit in cancer due to rb1 defects,-0.845027072,0.001729223,0.001167454,0.968
+e2f enabled inhibition of pre replication complex formation,-0.851066721,0.002280106,0.001286939,0.924
+binding and uptake of ligands by scavenger receptors,-0.851266105,0.011246197,0.002815816,0.802
+dectin 2 family,-0.851691371,0.00219675,0.001127981,0.902
+activation of matrix metalloproteinases,-0.854225802,0.007392627,0.002282621,0.84
+epigenetic regulation of gene expression,-0.857571486,0.002819496,0.001349867,0.882
+initiation of nuclear envelope ne reformation,-0.857979753,0.002170475,0.001129527,0.916
+nr1h3 nr1h2 regulate gene expression linked to cholesterol transport and efflux,-0.859925038,0.001627241,0.000982836,0.926
+vitamin b5 pantothenate metabolism,-0.860827901,0.002377151,0.001342367,0.918
+sumoylation of rna binding proteins,-0.861102653,0.001803312,0.001256949,0.974
+abacavir transmembrane transport,-0.862841844,0.001110911,0.000770045,0.964
+tnfs bind their physiological receptors,-0.863609865,0.002313558,0.001420709,0.976
+transport of inorganic cations anions and amino acids oligopeptides,-0.864071128,0.010934833,0.002775267,0.792
+synthesis of very long chain fatty acyl coas,-0.866343839,0.002454143,0.001450991,0.934
+keratan sulfate keratin metabolism,-0.866571897,0.004681699,0.00193948,0.868
+non integrin membrane ecm interactions,-0.873654538,0.01266384,0.00302123,0.82
+tgf beta receptor signaling activates smads,-0.873756887,0.005648337,0.001821407,0.838
+rhof gtpase cycle,-0.874030995,0.003446445,0.001564378,0.886
+synthesis of active ubiquitin roles of e1 and e2 enzymes,-0.876772439,0.00112072,0.000771598,0.98
+postmitotic nuclear pore complex npc reformation,-0.877373089,0.001751171,0.00117421,0.988
+rho gtpases activate formins,-0.879414697,0.017084336,0.003276745,0.812
+cdc42 gtpase cycle,-0.879421358,0.006276464,0.002048933,0.83
+interactions of vpr with host cellular proteins,-0.879627601,0.001714829,0.001129886,0.974
+transport of mature mrnas derived from intronless transcripts,-0.879823361,0.001676901,0.001086526,0.976
+collagen formation,-0.880597573,0.01846621,0.003410807,0.798
+pyruvate metabolism and citric acid tca cycle,-0.882472157,0.003323128,0.001452017,0.914
+scavenging by class a receptors,-0.883416678,0.002954655,0.001493653,0.926
+mitotic spindle checkpoint,-0.88470841,0.014348454,0.003180899,0.804
+termination of o glycan biosynthesis,-0.886208772,0.002830009,0.001377193,0.916
+unblocking of nmda receptors glutamate binding and activation,-0.888545323,0.002802369,0.001305222,0.926
+negative regulation of nmda receptor mediated neuronal transmission,-0.888684775,0.002311975,0.001340103,0.952
+gene silencing by rna,-0.889648354,0.004567605,0.001812441,0.872
+rho gtpase cycle,-0.889911905,0.025887428,0.00400986,0.818
+chromatin modifying enzymes,-0.890724572,0.004986594,0.001739623,0.856
+synthesis of pa,-0.892480178,0.003460256,0.001613531,0.936
+hcmv late events,-0.893514224,0.001654932,0.00104529,0.98
+resolution of sister chromatid cohesion,-0.893770184,0.015847166,0.003338371,0.804
+phosphorylation of emi1,-0.897876135,0.002344771,0.001264835,0.956
+chk1 chk2 cds1 mediated inactivation of cyclin b cdk1 complex,-0.898592873,0.001660153,0.000918779,0.926
+disorders of transmembrane transporters,-0.89916533,0.010915911,0.00273523,0.804
+complement cascade,-0.899170024,0.009574224,0.002593739,0.836
+mapk3 erk1 activation,-0.902380074,0.001695244,0.001114177,0.986
+sumoylation of sumoylation proteins,-0.902514655,0.001658184,0.001038469,0.98
+lgi adam interactions,-0.904587544,0.001748786,0.001145833,0.976
+signaling by erbb2 ecd mutants,-0.905340933,0.00181273,0.001160477,0.982
+metabolism of polyamines,-0.905658446,0.002287684,0.001323854,0.948
+regulation of insulin like growth factor igf transport and uptake by insulin like growth factor binding proteins igfbps,-0.906415851,0.01813686,0.003364523,0.804
+rac1 gtpase cycle,-0.907775888,0.00624217,0.002188873,0.864
+glycolysis,-0.910227116,0.002826885,0.001385401,0.928
+mitochondrial fatty acid beta oxidation,-0.911541309,0.001694483,0.00099465,0.968
+long term potentiation,-0.912502358,0.002969039,0.001601231,0.95
+interleukin 12 family signaling,-0.912757938,0.002329248,0.001294073,0.95
+ion homeostasis,-0.913123662,0.005148824,0.001825446,0.874
+regulation of glucokinase by glucokinase regulatory protein,-0.918216384,0.001730039,0.001098966,0.974
+insulin processing,-0.918594178,0.002188467,0.001116371,0.932
+g1 s specific transcription,-0.920260501,0.006217735,0.001970894,0.874
+viral messenger rna synthesis,-0.921580227,0.002198887,0.001206976,0.962
+pyrimidine salvage,-0.922616631,0.001728454,0.001041787,0.964
+trna processing in the nucleus,-0.922733188,0.001619791,0.000974107,0.962
+transport of the slbp dependant mature mrna,-0.924992339,0.001703608,0.001062342,0.976
+flt3 signaling in disease,-0.925467888,0.001728332,0.001030637,0.97
+negative regulation of tcf dependent signaling by wnt ligand antagonists,-0.929089819,0.00332248,0.001467892,0.924
+nuclear import of rev protein,-0.929324002,0.001704283,0.001058116,0.98
+rhod gtpase cycle,-0.932151972,0.003408818,0.00156687,0.928
+inhibition of the proteolytic activity of apc c required for the onset of anaphase by mitotic spindle checkpoint components,-0.932242219,0.002183574,0.001173035,0.956
+e2f mediated regulation of dna replication,-0.932885898,0.002245166,0.001136614,0.934
+snrnp assembly,-0.936293774,0.001739149,0.001087478,0.976
+formation of the cornified envelope,-0.93660457,0.016613813,0.003557813,0.822
+interleukin 10 signaling,-0.938367957,0.006723648,0.00218015,0.886
+protein protein interactions at synapses,-0.939882954,0.009348007,0.002692374,0.856
+transcriptional regulation by small rnas,-0.940865915,0.002241193,0.0012272,0.962
+signaling by egfr,-0.941264252,0.004620152,0.0018505,0.9
+biosynthesis of epa derived spms,-0.94917156,0.001649147,0.000996872,0.978
+export of viral ribonucleoproteins from nucleus,-0.949266964,0.001627615,0.000955121,0.976
+blood group systems biosynthesis,-0.950342684,0.003438069,0.001574765,0.95
+asparagine n linked glycosylation,-0.952007596,0.012922912,0.003157477,0.854
+rab gefs exchange gtp for gdp on rabs,-0.955252335,0.002901928,0.001435091,0.942
+cell cycle mitotic,-0.957119891,0.046435876,0.005580524,0.832
+rhog gtpase cycle,-0.958428737,0.003474564,0.001575992,0.928
+interleukin 3 interleukin 5 and gm csf signaling,-0.960975858,0.00276349,0.001323041,0.948
+wnt ligand biogenesis and trafficking,-0.961159716,0.003343709,0.001450095,0.926
+response to elevated platelet cytosolic ca2,-0.963587591,0.016542211,0.003307134,0.824
+nucleotide salvage,-0.963598059,0.001729199,0.000998254,0.972
+recruitment of mitotic centrosome proteins and complexes,-0.963815046,0.004556558,0.001717848,0.902
+keratinization,-0.966786739,0.016509348,0.003338688,0.84
+ns1 mediated effects on host pathways,-0.968835993,0.002245443,0.001255396,0.97
+collagen biosynthesis and modifying enzymes,-0.969553437,0.012464969,0.002998675,0.87
+signaling by pdgf,-0.970293586,0.010766263,0.002610044,0.846
+cell cycle,-0.971249293,0.055046771,0.006201377,0.832
+signaling by moderate kinase activity braf mutants,-0.974567574,0.00347548,0.001614541,0.94
+processing of capped intron containing pre mrna,-0.979319202,0.004437818,0.001772176,0.936
+eicosanoid ligand binding receptors,-0.983978177,0.001753853,0.001184386,0.998
+hiv life cycle,-0.985248463,0.003893615,0.001510081,0.902
+transport to the golgi and subsequent modification,-0.992240128,0.009565547,0.002433305,0.838
+interactions of rev with host cellular proteins,-0.992286565,0.001623951,0.00091002,0.982
+interleukin 1 family signaling,-0.993270531,0.007903373,0.002273056,0.86
+effects of pip2 hydrolysis,-1.002651676,0.002132523,0.001041715,0.962
+negative regulation of mapk pathway,-1.002953682,0.00214961,0.0011929,0.988
+ecm proteoglycans,-1.004885271,0.01923037,0.003698046,0.848
+cellular response to chemical stress,-1.008728724,0.008442679,0.002336549,0.87
+signaling by met,-1.011536955,0.012827073,0.002794354,0.872
+syndecan interactions,-1.012456662,0.004621269,0.001827752,0.924
+digestion and absorption,-1.013412509,0.005646017,0.001937894,0.896
+signaling by erbb2,-1.01467745,0.005127273,0.002079881,0.946
+grb2 events in erbb2 signaling,-1.017174141,0.003337008,0.001511296,0.964
+hsf1 dependent transactivation,-1.018392237,0.005262866,0.002042117,0.926
+recruitment of numa to mitotic centrosomes,-1.021615177,0.005762545,0.00202349,0.924
+integration of energy metabolism,-1.023429966,0.01082618,0.002648341,0.862
+apc c cdc20 mediated degradation of cyclin b,-1.02689934,0.002782981,0.001391227,0.978
+prostanoid ligand receptors,-1.030211537,0.00174756,0.001125126,0.996
+autophagy,-1.03214507,0.002801227,0.001307322,0.976
+amino acid transport across the plasma membrane,-1.033313101,0.003882333,0.001488382,0.904
+signaling by ptk6,-1.037937589,0.005767325,0.002079567,0.932
+collagen degradation,-1.042047303,0.016698037,0.003429815,0.868
+stimuli sensing channels,-1.048642934,0.008026007,0.002302834,0.896
+the role of gtse1 in g2 m progression after g2 checkpoint,-1.052456281,0.004573171,0.001869906,0.96
+digestion,-1.052526604,0.005656053,0.001875413,0.906
+signaling by retinoic acid,-1.056345592,0.006742904,0.00226535,0.924
+antiviral mechanism by ifn stimulated genes,-1.056954104,0.002818165,0.001373684,0.976
+glycerophospholipid biosynthesis,-1.062991259,0.007821211,0.002210351,0.886
+the citric acid tca cycle and respiratory electron transport,-1.063026187,0.004576927,0.001733917,0.944
+erbb2 activates ptk6 signaling,-1.063765978,0.004586956,0.00183443,0.944
+o linked glycosylation of mucins,-1.064820065,0.008398143,0.00238255,0.914
+apc c mediated degradation of cell cycle proteins,-1.066730435,0.008440197,0.002494752,0.928
+rab regulation of trafficking,-1.07436737,0.003310422,0.001448846,0.97
+cytoprotection by hmox1,-1.077277885,0.003909978,0.001524128,0.956
+peptide ligand binding receptors,-1.084057703,0.026366595,0.004457712,0.882
+diseases associated with o glycosylation of proteins,-1.085527697,0.007255631,0.002173013,0.924
+regulation of hsf1 mediated heat shock response,-1.087509041,0.006461069,0.002225593,0.926
+abc family proteins mediated transport,-1.087836428,0.006149122,0.001963187,0.936
+immunoregulatory interactions between a lymphoid and a non lymphoid cell,-1.089628239,0.014914645,0.003206335,0.892
+downregulation of erbb2 signaling,-1.08994049,0.004029721,0.001729083,0.966
+c type lectin receptors clrs,-1.091592474,0.005662298,0.002018113,0.928
+pi3k events in erbb2 signaling,-1.092341776,0.003891033,0.001598318,0.964
+transport of mature transcript to cytoplasm,-1.094075921,0.002759305,0.001327329,0.982
+nuclear envelope breakdown,-1.099710108,0.004546461,0.001731747,0.954
+glycosaminoglycan metabolism,-1.107549308,0.011832449,0.002836685,0.892
+regulation of plk1 activity at g2 m transition,-1.10768886,0.006275895,0.002114511,0.95
+infectious disease,-1.107718022,0.045522513,0.005717747,0.874
+separation of sister chromatids,-1.109804607,0.017080806,0.003455065,0.898
+phosphorylation of the apc c,-1.117761772,0.002840219,0.001369176,0.998
+erbb2 regulates cell motility,-1.118573665,0.003882058,0.001552812,0.984
+shc1 events in erbb2 signaling,-1.12191071,0.004029763,0.001679848,0.962
+gap junction trafficking and regulation,-1.122728709,0.003413601,0.001478741,0.964
+nuclear pore complex npc disassembly,-1.12797474,0.003366787,0.001477812,0.982
+trafficking of ampa receptors,-1.134981266,0.003441287,0.001708809,0.998
+signaling by erbb2 in cancer,-1.146380534,0.004042077,0.001654733,0.974
+apc c cdh1 mediated degradation of cdc20 and other apc c cdh1 targeted proteins in late mitosis early g1,-1.153293583,0.005192869,0.001838939,0.938
+slc mediated transmembrane transport,-1.155392504,0.021561102,0.003953518,0.886
+phospholipid metabolism,-1.175274811,0.011740804,0.002992617,0.934
+mitotic prophase,-1.175761278,0.005128349,0.001800402,0.966
+degradation of the extracellular matrix,-1.178031488,0.028457575,0.004322066,0.912
+ion channel transport,-1.179001412,0.014112015,0.003067016,0.906
+phase 0 rapid depolarisation,-1.188988689,0.004558357,0.001651946,0.976
+raf independent mapk1 3 activation,-1.21016716,0.003458961,0.001653455,0.998
+glucose metabolism,-1.217618284,0.004432501,0.001682849,0.984
+mitotic prometaphase,-1.220184761,0.021046782,0.003790046,0.902
+sars cov 2 host interactions,-1.225557518,0.006924493,0.002328867,0.968
+cellular response to heat stress,-1.226194834,0.007979831,0.002424953,0.956
+oncogenic mapk signaling,-1.228133588,0.00617,0.002068472,0.97
+signaling by braf and raf1 fusions,-1.24752133,0.0051956,0.001854765,0.978
+sars cov 2 infection,-1.257884304,0.011395323,0.002723366,0.946
+nuclear envelope ne reassembly,-1.263329627,0.005185071,0.001953813,0.992
+adaptive immune system,-1.270906642,0.048549198,0.005578193,0.886
+aurka activation by tpx2,-1.271576601,0.006316175,0.002093206,0.968
+anchoring of the basal body to the plasma membrane,-1.275511975,0.006382418,0.002192949,0.984
+sars cov infections,-1.277395105,0.01585249,0.003312314,0.944
+sars cov 2 activates modulates innate and adaptive immune responses,-1.279541861,0.005740149,0.001986567,0.982
+integrin cell surface interactions,-1.284964828,0.015719508,0.003248852,0.934
+g alpha i signalling events,-1.323456802,0.029618607,0.004426337,0.926
+activation of nmda receptors and postsynaptic events,-1.330653866,0.010049296,0.002656507,0.976
+phase ii conjugation of compounds,-1.378559155,0.012169103,0.002979401,0.97
+class a 1 rhodopsin like receptors,-1.411962465,0.035903342,0.005021888,0.954
+o linked glycosylation,-1.414135405,0.012611366,0.002924938,0.976
+diseases of glycosylation,-1.457914751,0.016240839,0.003252256,0.972
+drug adme,-1.493289659,0.012611429,0.00307609,0.988
+platelet activation signaling and aggregation,-1.501714309,0.028519483,0.004416618,0.954
+fatty acid metabolism,-1.506710429,0.018245881,0.003737656,0.976
+mitotic metaphase and anaphase,-1.567225934,0.020940249,0.00368267,0.974
+neurotransmitter receptors and postsynaptic signal transmission,-1.575901503,0.017453273,0.003423292,0.982
+membrane trafficking,-1.612509184,0.030605639,0.004507949,0.97
+neutrophil degranulation,-1.626871822,0.036003563,0.005069367,0.968
+extracellular matrix organization,-1.630281501,0.053941322,0.006053251,0.96
+l1cam interactions,-1.632314773,0.011962133,0.002843958,0.992
+gpcr ligand binding,-1.710882163,0.045280384,0.005523726,0.976
+g alpha q signalling events,-1.714994043,0.022865565,0.004124412,0.992
+diseases of metabolism,-1.741719066,0.025414214,0.004356529,0.988
+transmission across chemical synapses,-1.797201962,0.025852308,0.00438349,0.986
+innate immune system,-1.807489418,0.072829425,0.006819074,0.972
+m phase,-1.823128497,0.028073412,0.004431925,0.992
+vesicle mediated transport,-1.870253126,0.042176303,0.005341836,0.992
+metabolism of carbohydrates,-1.968774152,0.022103153,0.003875203,0.996
+neuronal system,-2.115298539,0.037277697,0.004947999,0.996
+signaling by gpcr,-2.187854915,0.063897745,0.006256308,0.996
+transport of small molecules,-2.311549133,0.059671857,0.006232929,0.998

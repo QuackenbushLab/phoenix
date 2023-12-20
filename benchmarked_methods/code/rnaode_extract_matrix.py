@@ -112,8 +112,8 @@ parser = argparse.ArgumentParser('Testing')
 parser.add_argument('--settings', type=str, default='config_breast.cfg')
 clean_name =  "desmedt_11165genes_1sample_186T" 
 clean_name_velo =  "desmedt_11165genes_1sample_186T_DERIVATIVES"  
-parser.add_argument('--data', type=str, default='/home/ubuntu/neural_ODE/breast_cancer_data/clean_data/{}.csv'.format(clean_name))
-parser.add_argument('--velo_data', type=str, default='/home/ubuntu/neural_ODE/breast_cancer_data/clean_data/{}.csv'.format(clean_name_velo))
+parser.add_argument('--data', type=str, default='/home/ubuntu/phoenix/breast_cancer_data/clean_data/{}.csv'.format(clean_name))
+parser.add_argument('--velo_data', type=str, default='/home/ubuntu/phoenix/breast_cancer_data/clean_data/{}.csv'.format(clean_name_velo))
 
 args = parser.parse_args()
 
@@ -172,7 +172,7 @@ if __name__ == "__main__":
     param_ratio = round(param_count/ (data_handler.dim)**2, 3)
     print("Using a NN with {} neurons per layer, with {} trainable parameters, i.e. parametrization ratio = {}".format(settings['neurons_per_layer'], param_count, param_ratio))
     
-    pretrained_model_file = '/home/ubuntu/neural_ODE/ode_net/code/output/_pretrained_best_model/best_val_model.pt'
+    pretrained_model_file = '/home/ubuntu/phoenix/ode_net/code/output/_pretrained_best_model/best_val_model.pt'
     odenet.load(pretrained_model_file)
         
 
@@ -260,9 +260,9 @@ if __name__ == "__main__":
 
     N_list = [50, 100, 500, 1000, 2000, 4000, 6000, 8000, 10000, 11165]
         
-    loss_calcs = get_true_val_set_r2(pred_next_pts, X_test_target, "/home/ubuntu/neural_ODE/ode_net/code/model_inspect", N_list)
+    loss_calcs = get_true_val_set_r2(pred_next_pts, X_test_target, "/home/ubuntu/phoenix/ode_net/code/model_inspect", N_list)
 
-    f = open('{}/R2_by_Ngene_rnaode_{}.txt'.format("/home/ubuntu/neural_ODE/ode_net/code/model_inspect/", best_trees), 'w')
+    f = open('{}/R2_by_Ngene_rnaode_{}.txt'.format("/home/ubuntu/phoenix/ode_net/code/model_inspect/", best_trees), 'w')
     print("__________________\n", file = f)
     for n, perf_couple in zip(N_list, loss_calcs):
         print("R^2, MSE, PercErr of val traj (init-val) for top {} genes: {:.2%}, {:.5E}, {:.2%}".format(n, perf_couple[0], perf_couple[1], perf_couple[2]), file = f)
@@ -276,9 +276,9 @@ if __name__ == "__main__":
     with torch.no_grad():
         visualizer.visualize()
         visualizer.plot()
-        visualizer.save("/home/ubuntu/neural_ODE/ode_net/code/model_inspect/rnaode_BRCA_11165.png")
+        visualizer.save("/home/ubuntu/phoenix/ode_net/code/model_inspect/rnaode_BRCA_11165.png")
     
     print("obtaining GRN now..\n")
     my_GRN = GET_GRN(counts = X_full, velocity = true_velos_full, model_to_test = best_rf)
-    np.savetxt("/home/ubuntu/neural_ODE/ode_net/code/model_inspect/effects_mat_rnaode.csv", my_GRN, delimiter=",")
+    np.savetxt("/home/ubuntu/phoenix/ode_net/code/model_inspect/effects_mat_rnaode.csv", my_GRN, delimiter=",")
 

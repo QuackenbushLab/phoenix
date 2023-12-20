@@ -74,8 +74,8 @@ parser = argparse.ArgumentParser('Testing')
 parser.add_argument('--settings', type=str, default='config_breast.cfg')
 clean_name =  "desmedt_11165genes_1sample_186T" 
 clean_name_velo =  "desmedt_11165genes_1sample_186T_DERIVATIVES"  
-parser.add_argument('--data', type=str, default='/home/ubuntu/neural_ODE/breast_cancer_data/clean_data/{}.csv'.format(clean_name))
-parser.add_argument('--velo_data', type=str, default='/home/ubuntu/neural_ODE/breast_cancer_data/clean_data/{}.csv'.format(clean_name_velo))
+parser.add_argument('--data', type=str, default='/home/ubuntu/phoenix/breast_cancer_data/clean_data/{}.csv'.format(clean_name))
+parser.add_argument('--velo_data', type=str, default='/home/ubuntu/phoenix/breast_cancer_data/clean_data/{}.csv'.format(clean_name_velo))
 
 
 args = parser.parse_args()
@@ -138,7 +138,7 @@ if __name__ == "__main__":
     param_ratio = round(param_count/ (data_handler.dim)**2, 3)
     print("Using a NN with {} neurons per layer, with {} trainable parameters, i.e. parametrization ratio = {}".format(settings['neurons_per_layer'], param_count, param_ratio))
     
-    pretrained_model_file = '/home/ubuntu/neural_ODE/ode_net/code/output/_pretrained_best_model/best_val_model.pt'
+    pretrained_model_file = '/home/ubuntu/phoenix/ode_net/code/output/_pretrained_best_model/best_val_model.pt'
     #odenet.load(pretrained_model_file)
         
     #DYNAMO vector field RKHS regression
@@ -260,9 +260,9 @@ if __name__ == "__main__":
     
     N_list = [50, 100, 500, 1000, 2000, 4000, 6000, 8000, 10000, 11165]
         
-    loss_calcs = get_true_val_set_r2(pred_next_pts/my_scale_factor, X_test_target/my_scale_factor, "/home/ubuntu/neural_ODE/ode_net/code/model_inspect", N_list)
+    loss_calcs = get_true_val_set_r2(pred_next_pts/my_scale_factor, X_test_target/my_scale_factor, "/home/ubuntu/phoenix/ode_net/code/model_inspect", N_list)
 
-    f = open('{}/R2_by_Ngene_dynamo_{}_{}.txt'.format("/home/ubuntu/neural_ODE/ode_net/code/model_inspect/", best_M, best_lambda), 'w')
+    f = open('{}/R2_by_Ngene_dynamo_{}_{}.txt'.format("/home/ubuntu/phoenix/ode_net/code/model_inspect/", best_M, best_lambda), 'w')
     print("__________________\n", file = f)
     for n, perf_couple in zip(N_list, loss_calcs):
         print("R^2, MSE, PercErr of val traj (init-val) for top {} genes: {:.2%}, {:.5E}, {:.2%}".format(n, perf_couple[0], perf_couple[1], perf_couple[2]), file = f)
@@ -278,7 +278,7 @@ if __name__ == "__main__":
     with torch.no_grad():
         visualizer.visualize()
         visualizer.plot()
-        visualizer.save("/home/ubuntu/neural_ODE/ode_net/code/model_inspect/dynamo_BRCA_11165.png")
+        visualizer.save("/home/ubuntu/phoenix/ode_net/code/model_inspect/dynamo_BRCA_11165.png")
 
     print("obtaining Jacobian now..") #Jacobian analysis
 
@@ -290,7 +290,7 @@ if __name__ == "__main__":
         jac_to_add = jac(np.random.normal(loc=0.5, scale=0.25, size=data_handler.dim))
         all_jacs_l2_burn.append(np.sum(jac_to_add)**2)
     l2_cut_off = np.quantile(all_jacs_l2_burn, 0.95)
-    #np.savetxt('/home/ubuntu/neural_ODE/ode_net/code/model_inspect/jac_burns.csv', all_jacs_l2_burn, delimiter=',')
+    #np.savetxt('/home/ubuntu/phoenix/ode_net/code/model_inspect/jac_burns.csv', all_jacs_l2_burn, delimiter=',')
     print(l2_cut_off)
 
     n_iter = 300
@@ -306,7 +306,7 @@ if __name__ == "__main__":
     
     #print(len(tot_its))
     jac_avg_unif = np.transpose(jac_sum_norm/n_iter)
-    np.savetxt("/home/ubuntu/neural_ODE/ode_net/code/model_inspect/effects_mat_dynamo.csv", jac_avg_unif, delimiter=",")
+    np.savetxt("/home/ubuntu/phoenix/ode_net/code/model_inspect/effects_mat_dynamo.csv", jac_avg_unif, delimiter=",")
    
     print("")
     print("saved abosulte average jacobian matrix, taken over", n_iter, "random points.")
