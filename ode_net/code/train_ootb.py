@@ -26,10 +26,20 @@ from visualization_inte import *
 
 #torch.set_num_threads(8) #CHANGE THIS!
 
+def plot_LR_range_test(all_lrs_used, training_loss, img_save_dir):
+    plt.figure()
+    plt.plot(all_lrs_used, training_loss, color = "blue", label = "Training loss")
+    plt.plot(all_lrs_used, true_mean_losses, color = "green", label = r'True $\mu$ loss')
+    #plt.yscale('log')
+    plt.xscale('log')
+    plt.xlabel("Learning rate")
+    plt.ylabel("Error (MSE)")
+    plt.legend(loc='upper right')
+    plt.savefig("{}/LR_range_test.png".format(img_save_dir))
+
 def plot_MSE(epoch_so_far, training_loss, validation_loss, true_mean_losses, true_mean_losses_init_val_based, img_save_dir):
     plt.figure()
     plt.plot(range(1, epoch_so_far + 1), training_loss, color = "blue", label = "Training loss")
-    plt.plot(range(1, epoch_so_far + 1), true_mean_losses, color="green", label="Noiseless test loss")
     if len(validation_loss) > 0:
         plt.plot(range(1, epoch_so_far + 1), validation_loss, color = "red", label = "Validation loss")
     #plt.plot(range(1, epoch_so_far + 1), true_mean_losses, color = "green", label = r'True $\mu$ loss')
@@ -39,7 +49,6 @@ def plot_MSE(epoch_so_far, training_loss, validation_loss, true_mean_losses, tru
     plt.ylabel("Error (MSE)")
     plt.savefig("{}/MSE_loss.png".format(img_save_dir))
     np.savetxt('{}full_loss_info.csv'.format(output_root_dir), np.c_[training_loss, validation_loss, true_mean_losses, true_mean_losses_init_val_based], delimiter=',')
-
 
 def my_r_squared(output, target):
     x = output
@@ -153,10 +162,8 @@ def save_model(odenet, folder, filename):
 
 parser = argparse.ArgumentParser('Testing')
 parser.add_argument('--settings', type=str, default='config_inte.cfg')
-clean_name =  "chalmers_690genes_150samples_earlyT_0bimod_1initvar" 
+clean_name =  "chalmers_690genes_150samples_earlyT_0bimod_1initvar" #"
 parser.add_argument('--data', type=str, default='/home/ubuntu/neural_ODE/ground_truth_simulator/clean_data/{}.csv'.format(clean_name))
-test_data_name = "chalmers_690genes_10samples_for_testing" 
-parser.add_argument('--test_data', type=str, default='/home/ubuntu/neural_ODE/ground_truth_simulator/clean_data/{}.csv'.format(test_data_name))
 
 args = parser.parse_args()
 
@@ -210,8 +217,7 @@ if __name__ == "__main__":
                                         img_save_dir = img_save_dir,
                                         scale_expression = settings['scale_expression'],
                                         log_scale = settings['log_scale'],
-                                        init_bias_y = settings['init_bias_y'],
-                                        fp_test = args.test_data)
+                                        init_bias_y = settings['init_bias_y'])
     
     # Initialization
     odenet = ODENet(device, data_handler.dim, explicit_time=settings['explicit_time'], neurons = settings['neurons_per_layer'], 
@@ -245,7 +251,7 @@ if __name__ == "__main__":
         opt = optim.Adam(odenet.parameters(), lr=settings['init_lr'], weight_decay=settings['weight_decay'])
         
     scheduler = optim.lr_scheduler.ReduceLROnPlateau(opt, mode='min', 
-    factor=0.9, patience=3, threshold=1e-09, 
+    factor=0.9, patience=3, threshold=1e-05, 
     threshold_mode='abs', cooldown=0, min_lr=0, eps=1e-08, verbose=True)
 
     
@@ -293,7 +299,7 @@ if __name__ == "__main__":
     rep_epochs_time_so_far = []
     rep_epochs_so_far = []
     consec_epochs_failed = 0
-    epochs_to_fail_to_terminate = 20
+    epochs_to_fail_to_terminate = 15
     all_lrs_used = []
 
     #print(get_true_val_set_r2(odenet, data_handler, settings['method']))
@@ -450,7 +456,7 @@ if __name__ == "__main__":
             
             print("Saving best intermediate val model..")
             interm_model_file_name = 'best_val_model_epoch_' + str(epoch)
-            #save_model(best_vaL_model_so_far, interm_models_save_dir , interm_model_file_name)
+            save_model(best_vaL_model_so_far, interm_models_save_dir , interm_model_file_name)
                 
             
             #else:
