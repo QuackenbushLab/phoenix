@@ -7,4 +7,6 @@ PHOENIX is a tool to infer **biologically explainable** differential equations d
 
 **Conclusions:** PHOENIX uses a combination of user-defined prior knowledge and functional forms from systems biology to encode key properties of the underlying GRN, and subsequently predicting expression patterns in a biologically explainable manner.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/QuackenbushLab/phoenix/blob/main/concept.PNG)
+
+
